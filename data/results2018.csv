@@ -1,5 +1,5 @@
-,No,Constituency,Winner,Votes,Majority,Opponent 1,Votes Opponent 1,Incumbent,Incumbent Majority,Opponent 2,Votes Opponent 2,Opponent 3,Votes Opponent 3,Opponent 4,Votes Opponent 4,Opponent 5,Votes Opponent 5
-0,"P1
+No,Constituency,Winner,Votes,Majority,Opponent 1,Votes Opponent 1,Incumbent,Incumbent Majority,Opponent 2,Votes Opponent 2,Opponent 3,Votes Opponent 3,Opponent 4,Votes Opponent 4,Opponent 5,Votes Opponent 5,Malay,Chinese ,Indian,Bumiputera Sarawak,Bumiputera Sabah,Orang Asli,Lain-lain
+"P001
 ","Padang Besar
 ","Zahidi Zainul Abidin  (BN-UMNO)
 ","15,032
@@ -10,104 +10,8 @@
 ","7,426
 ","Mokhtar Senik  (GS-PAS)
 ","7,874
-",,,,,,
-0,"P2
-","Kangar
-","Noor Amin Ahmad  (PH-PKR)
-","20,909
-","5,603
-","Ramli Shariff  (BN-UMNO)
-","15,306
-","Shaharuddin Ismail  (BN-UMNO)
-","4,037
-","Mohamad Zahid Ibrahim  (GS-PAS)
-","8,465
-",,,,,,
-0,"P3
-","Arau
-","Shahidan Kassim  (BN-UMNO)
-","16,547
-"," 4,856
-","Abd Rahman Daud  (PH-PPBM)
-","11,691
-","Shahidan Kassim  (BN-UMNO)
-","1,371
-","Hashim Hj Jasin  (GS-PAS)
-","11,362
-",,,,,,
-0,"P4
-","Langkawi
-","Mahathir Mohamad (PH-PPBM)
-","18,954
-","8,893
-","Nawawi Ahmad  (BN-UMNO)
-","10,061
-","Nawawi Ahmad  (BN-UMNO)
-","11,861
-","Zubir Ahmad  (GS-PAS)
-","5,512
-",,,,,,
-0,"P5
-","Jerlun
-","Mukhriz Mahathir (PH-PPBM)
-","18,695
-","5,866
-","Abdul Ghani Ahmad  (GS-PAS)
-","12,829
-","Othman Aziz  (BN-UMNO)
-","3,279
-","Othman Aziz  (BN-UMNO)
-","12,413
-",,,,,,
-0,"P6
-","Kubang Pasu
-","Amiruddin Hamzah (PH-PPBM)
-","29,984
-","13,009
-","Mohd Johari Baharum  (BN-UMNO)
-","16,975
-","Mohd Johari Baharum  (BN-UMNO)
-","10,444
-","Norhafiza Fadzil  (GS-PAS)
-","13,375
-",,,,,,
-0,"P7
-","Padang Terap
-","Mahdzir Khalid  (BN-UMNO)
-","16,384
-","1,099
-","Mohd Azam Abd Aziz  (GS-PAS)
-","15,285
-","Mahdzir Khalid  (BN-UMNO)
-","4,442
-","Mohd Khairizal Khazali  (PH-AMANAH)
-","7,254
-",,,,,,
-0,"P8
-","Pokok Sena
-","Mahfuz Omar  (PH-AMANAH)
-","28,959
-","5,558
-","Radhi Mat Din  (GS-PAS)
-","23,401
-","Mahfuz Omar  (PH-AMANAH)
-","3,935
-","Said Ali Said Rastan  (BN-UMNO)
-","18,390
-",,,,,,
-0,"P9
-","Alor Setar (previously known as Alor Star)[3]
-","Chan Ming Kai  (PH-PKR)
-","32,475
-","15,200
-","Muhd Aminur Shafiq Mohd Abduh  (GS-PAS)
-","17,275
-","Gooi Hsiao Leung  (PH-PKR)
-","1,873
-","Yoo Wei How  (BN-MCA)
-","14,181
-",,,,,,
-0,"P10
+",,,,,,,86.62%,8.44%,0.87%,0.68%,0.30%,0.02%,3.07%
+"P010
 ","Kuala Kedah
 ","Azman Ismail (PH-PKR)
 ","36,624
@@ -118,1100 +22,8 @@
 ","4,947
 ","Abdullah Hasnan Kamaruddin  (BN-UMNO)
 ","19,400
-",,,,,,
-0,"P11
-","Pendang
-","Awang Hashim  (GS-PAS)
-","26,536
-","5,808
-","Othman Abdul  (BN-UMNO)
-","20,728
-","Othman Abdul  (BN-UMNO)
-","2,638
-","Wan Saiful Wan Jan (PH-PPBM)
-","14,901
-","Abdul Malik Manaf (IND)
-","81
-",,,,
-0,"P12
-","Jerai
-","Mohd Ismail  (GS-PAS)
-","22,312
-","539
-","Jamil Khir Baharom  (BN-UMNO)
-","21,773
-","Jamil Khir Baharom  (BN-UMNO)
-","1,196
-","Akhramsyah Muammar Ubaidah Sanusi (PH-PPBM)
-","21,651
-",,,,,,
-0,"P13
-","Sik
-","Ahmad Tarmizi Sulaiman  (GS-PAS)
-","20,088
-","5,218
-","Mansor Abdul Rahman  (BN-UMNO)
-","14,870
-","Mansor Abdul Rahman  (BN-UMNO)
-","2,807
-","Azli Uda  (PH-AMANAH)
-","6,970
-",,,,,,
-0,"P14
-","Merbok
-","Nurin Aina Abdullah (PH-PKR)
-","30,902
-","10,072
-","Tajul Urus Mat Zain (BN-UMNO)
-","20,830
-","Ismail Daut (BN-UMNO)
-","4,122
-","Ahmad Fauzi Ramli  (GS-PAS)
-","19,618
-",,,,,,
-0,"P15
-","Sungai Petani
-","Johari Abdul (PH-PKR)
-","45,532
-","21,569
-","Shahanim Mohd Yusof (BN-UMNO)
-","23,963
-","Johari Abdul (PH-PKR)
-","9,548
-","Shahri Long  (GS-PAS)
-","22,760
-","Sritharan Pichathu  (PRM)
-","279
-",,,,
-0,"P16
-","Baling
-","Abdul Azeez Abdul Rahim  (BN-UMNO)
-","38,557
-","1,074
-","Hassan Saad  (GS-PAS)
-","37,483
-","Abdul Azeez Abdul Rahim  (BN-UMNO)
-","5,185
-","Mohd Taufik Haji Yaacob (PH-PPBM)
-","14,472
-",,,,,,
-0,"P17
-","Padang Serai
-","Karupaiya Mutusamy  (PH-PKR)
-","31,724
-","8,813
-","Muhd Sobri Osman  (GS-PAS)
-","22,911
-","N Surendran K Nagarajan  (PH-PKR)
-","8,437
-","Leong Yong Kong (BN-MCA)
-","15,449
-",,,,,,
-0,"P18
-","Kulim-Bandar Baharu
-","Saifuddin Nasution Ismail  (PH-PKR)
-","23,159
-","4,860
-","Abd. Aziz Sheikh Fadzir  (BN-UMNO)
-","18,299
-","Abd. Aziz Sheikh Fadzir  (BN-UMNO)
-","1,871
-","Hassan Abdul Razak  (GS-PAS)
-","12,885
-",,,,,,
-0,"P19
-","Tumpat
-","Che Abdullah Mat Nawi  (GS-PAS)
-","47,041
-","17,500
-","Wan Johani Wan Hussin  (BN-UMNO)
-","29,541
-","Kamaruddin Jaafar  (PH-PKR)
-","10,704
-","Nordin Salleh
-(PH-PPBM)
-
-","10,003
-",,,,,,
-0,"P20
-","Pengkalan Chepa
-","Ahmad Marzuki Shaary (GS-PAS)
-","32,592
-","13,232
-","Zaluzi Sulaiman (BN-UMNO)
-"," 19,360
-","Izani Husin  (GS-PAS)
-","15,120
-","Mohamad Ibrahim (PH-AMANAH)
-","7,435
-",,,,,,
-0,"P21
-","Kota Bharu
-","Takiyuddin Hassan (GS-PAS)
-","28,291
-","5,869
-","Husam Musa (PH-AMANAH)
-","22,422
-","Takiyuddin Hassan  (GS-PAS)
-","15,970
-","Fikhran Hamshi Mohd Fatmi (BN-UMNO)
-","16,256
-",,,,,,
-0,"P22
-","Pasir Mas
-","Ahmad Fadhli Shaari (GS-PAS)
-","28,080
-","13,075
-","Nor Asmawi Ab Rahman (BN-UMNO)
-","15,005
-","Nik Mohamad Abduh Nik Abdul Aziz  (GS-PAS)
-","8,047
-","Ibrahim Ali (IND)
-","5,373
-","Che Ujang Bin Che Daud (PH-PKR)
-","5,093
-",,,,
-0,"P23
-","Rantau Panjang
-","Siti Zailah Mohd Yusoff (GS-PAS)
-","24,581
-","6,150
-","Abdullah Mat Yasim (BN-UMNO)
-","18,431
-","Siti Zailah Mohd Yusoff  (GS-PAS)
-","6,362
-","Wan Shah Jihan Wan Din (PH-AMANAH)
-","5,361
-",,,,,,
-0,"P24
-","Kubang Kerian
-","Tuan Ibrahim Tuan Man (GS-PAS)
-","35,620
-","19,369
-","Muhamad Abdul Ghani (BN-UMNO)
-","16,251
-","Ahmad Baihaki Atiqullah (GS-PAS)
-","16,741
-","Abdul Halim Yusof (PH-AMANAH)
-","11,557
-",,,,,,
-0,"P25
-","Bachok
-","Nik Mohamad Abduh Nik Abdul Aziz (GS-PAS)
-","36,188
-","3,292
-","Awang Adek Hussin (BN-UMNO)
-","32,896
-","Ahmad Marzuk Shaary (GS-PAS)
-","201
-","Zulkifli Zakaria (PH-PPBM)
-","4,880
-",,,,,,
-0,"P26
-","Ketereh
-","Annuar Musa (BN-UMNO)
-","25,467
-","4,626
-","Wan Ismail Wan Jusoh (GS-PAS)
-","20,841
-","Annuar Musa (BN-UMNO)
-","974
-","Mohd. Radzi Mohd. Jidin (PH-PPBM)
-","6,799
-",,,,,,
-0,"P27
-","Tanah Merah
-","Ikmal Hisham Abdul Aziz (BN-UMNO)
-","28,152
-","2,929
-","Johari Mat (GS-PAS)
-","25,223
-","Ikmal Hisham Abdul Aziz (BN-UMNO)
-","4,227
-","Mohamad Fauzi Zakaria (PH-PKR)
-","4,747
-",,,,,,
-0,"P28
-","Pasir Putih
-","Nik Muhd Zawawi Salleh (GS-PAS)
-","32,307
-","1,360
-","Asyraf Wajdi Dusuki (BN-UMNO)
-","30,947
-","Nik Mazian Nik Mohamad (GS-PAS)
-","1,888
-","Kamarudin Mohd. Noor (PH-PPBM)
-","4,896
-",,,,,,
-0,"P29
-","Machang
-","Ahmad Jazlan Yaakub (BN-UMNO)
-","26,076
-","2,824
-","Zulkifli Mamat (GS-PAS)
-","23,252
-","Ahmad Jazlan Yaakub (BN-UMNO)
-","805
-","Sazmi Miah (PH-PPBM)
-","5,695
-",,,,,,
-0,"P30
-","Jeli
-","Mustapa Mohamed (BN-UMNO)
-","21,665
-","6,647
-","Mohamad Hamid (GS-PAS)
-","15,018
-","Mustapa Mohamed  (BN-UMNO)
-","5,336
-","Azran Deraman (PH-PPBM)
-","2,078
-",,,,,,
-0,"P31
-","Kuala Kerai
-","Abd Latiff Abd Rahman (GS-PAS)
-","28,903
-","7,992
-","Ramzi Ab Rahman (BN-UMNO)
-","20,911
-","Mohd Hatta Ramli  (PH-AMANAH)
-","2,043
-","Mohd. Yazid Abdullah (PH-AMANAH)
-","5,173
-",,,,,,
-0,"P32
-","Gua Musang
-","Tengku Razaleigh Hamzah (BN-UMNO)
-","19,426
-","3,913
-","Abdullah Hussein (GS-PAS)
-","15,513
-","Tengku Razaleigh Hamzah  (BN-UMNO)
-","8,413
-","Mohd. Nor Hussin (PH-PPBM)
-","4,997
-",,,,,,
-0,"P33
-","Besut
-","Idris Jusoh  (BN-UMNO)
-","34,335
-","4,599
-","Wan Nazari Wan Jusoh  (PH-PPBM)
-","29,736
-","Idris Jusoh  (BN-UMNO)
-","8,342
-","Riduan Mohamad Nor  (GS-PAS)
-","6,864
-",,,,,,
-0,"P34
-","Setiu
-","Shaharizukarnain Abdul Kadir  (GS-PAS)
-","35,020
-","2,802
-","Mohd Jidin Shafee  (BN-UMNO)
-","32,218
-","Mohd Zulkifly Jusoh  (BN-UMNO)
-","7,943
-","Mohd Faudzi Musa  (PH-PPBM)
-","4,740
-",,,,,,
-0,"P35
-","Kuala Nerus
-","Mohd. Khairuddin Aman Razali  (GS-PAS)
-","37,974
-","8,447
-","Tengku Asmadi Tengku Mohamad  (BN-UMNO)
-","29,527
-","Khairudin Aman Razali  (GS-PAS)
-","610
-","Abdullah Muhamad  (PH-AMANAH)
-","4,604
-",,,,,,
-0,"P36
-","Kuala Terengganu
-","Ahmad Amzad Mohamed Hashim  (GS-PAS)
-","42,988
-","14,773
-","Wan Nawawi Wan Ismail  (BN-UMNO)
-","28,215
-","Raja Kamarul Bahrin Shah Raja Ahmad (PH-AMANAH)
-","10,785
-","Raja Kamarul Bahrin Shah Raja Ahmad  (PH-AMANAH)
-","15,380
-",,,,,,
-0,"P37
-","Marang
-","Abdul Hadi Awang  (GS-PAS)
-","53,749
-","21,954
-","Mohamad Noor Endut  (BN-UMNO)
-","31,795
-","Abdul Hadi Awang (GS-PAS)
-","5,124
-","Zarawi Sulong  (PH-AMANAH)
-","5,138
-",,,,,,
-0,"P38
-","Hulu Terengganu
-","Rosol Wahid  (BN-UMNO)
-","30,925
-","2,868
-","Muhyidin Abdul Rashid  (GS-PAS)
-","28,057
-","Jailani Johari  (BN-UMNO)
-","8,213
-","Razali Idris  (PH-PPBM)
-","3,364
-",,,,,,
-0,"P39
-","Dungun
-","Wan Hassan Mohd. Ramli (GS-PAS)
-","40,850
-","13,119
-","Din Adam  (BN-UMNO)
-","27,731
-","Wan Hassan Ramli  (GS-PAS)
-","3,942
-","Abdul Rahman Bin Yusof  (PH-PKR)
-","6,833
-",,,,,,
-0,"P40
-","Kemaman
-","Che Alias Hamid  (GS-PAS)
-","39,878
-","2,163
-","Ahmad Shabery Cheek  (BN-UMNO)
-","37,715
-","Ahmad Shabery Cheek (BN-UMNO)
-","12,306
-","Mohd Huzaifah Bin Mohd Suhaimi  (PH-PKR)
-","12,911
-",,,,,,
-0,"P41
-","Kepala Batas
-","Reezal Merican Naina Merican  (BN-UMNO)
-","22,459
-","4,736
-","Zaidi Zakaria  (PH-AMANAH)
-","17,723
-","Reezal Merican Naina Merican  (BN-UMNO)
-","4,176
-","Siti Mastura Muhamad  (GS-PAS)
-","12,120
-",,,,,,
-0,"P42
-","Tasek Gelugor
-","Shabudin Yahaya  (BN-UMNO)
-","18,547
-","81
-","Marzuki Yahya  (PH-PPBM)
-","18,466
-","Shabudin Yahaya  (BN-UMNO)
-","3,042
-","Rizal Hafiz Ruslan  (GS-PAS)
-","14,891
-",,,,,,
-0,"P43
-","Bagan
-","Lim Guan Eng  (PH-DAP)
-","51,653
-","43,902
-","Lee Beng Seng  (BN-MCA)
-","7,751
-","Lim Guan Eng  (PH-DAP)
-","34,159
-","Huan Cheng Guan  (GS-PCM)
-","502
-","Koay Xing Boon  (MUP)
-","181
-",,,,
-0,"P44
-","Permatang Pauh
-","Nurul Izzah Anwar  (PH-PKR)
-","35,534
-","15,668
-","Mohd. Zaidi Mohd. Said  (BN-UMNO)
-","19,866
-","Wan Azizah Wan Ismail  (PH-PKR)
-","8,841
-","Afnan Hamimi Taib Azamudden  (GS-PAS)
-","14,428
-",,,,,,
-0,"P45
-","Bukit Mertajam
-","Sim Chee Keong (PH-DAP)
-","63,784
-","52,877
-","Gui Guat Lye  (BN-MCA)
-","10,907
-","Sim Chee Keong (PH-DAP)
-","19,307
-",,,,,,,,
-0,"P46
-","Batu Kawan
-","Kasthuriraani Patto (PH-DAP)
-","42,683
-","33,553
-","Jayanthi Devi Balaguru  (BN-GERAKAN)
-","9,130
-","Kasthuriraani Patto (PH-DAP)
-","26,962
-","Jay Kumar Balakrishnan  (GS-PAS)
-","2,636
-","Ooi Khar Giap  (PFP)
-","256
-",,,,
-0,"P47
-","Nibong Tebal
-","Mansor Othman  (PH-PKR)
-","35,395
-","15,817
-","Shaik Hussien Mydin  (BN-UMNO)
-","19,578
-","Mansor Othman(PH-PKR)
-","8,598
-","Mohd Helmi Harun  (GS-PAS)
-","6,875
-","Tan Tee Beng  (IND)
-","331
-",,,,
-0,"P48
-","Bukit Bendera
-","Wong Hon Wai  (PH-DAP)
-","50,049
-","40,731
-","Andy Yong Kim Seng  (BN-GERAKAN)
-","9,318
-","Zairil Khir Johari (PH-DAP)
-","32,778
-","Tan Gim Theam  (MUP)
-","339
-",,,,,,
-0,"P49
-","Tanjong
-","Chow Kon Yeow  (PH-DAP)
-","34,663
-","29,599
-","Ng Siew Lai  (BN-GERAKAN)
-","5,064
-","Ng Wei Aik (PH-DAP)
-","28,645
-",,,,,,,,
-0,"P50
-","Jelutong
-","Sanisvara Nethaji Rayer Rajaji  (PH-DAP)
-","50,700
-","38,171
-","Baljit Singh Jigiri Singh  (BN-GERAKAN)
-","12,529
-","Ooi Chuan Aun (PH-DAP)
-","25,750
-","Tan Sim Bee  (MUP)
-","437
-",,,,,,
-0,"P51
-","Bukit Gelugor
-","Ramkarpal Singh Deo (PH-DAP)
-","65,622
-","55,951
-","Low Joo Hiap  (BN-MCA)
-","9,671
-","Ramkarpal Singh Deo (PH-DAP)
-","37,659
-","Lai Xue Ching  (MUP)
-","412
-",,,,,,
-0,"P52
-","Bayan Baru
-","Sim Tze Tzin  (PH-PKR)
-","51,555
-","37,751
-","Chuah Seng Guan  (BN-MCA)
-","13,804
-","Sim Tze Tzin (PH-PKR)
-","19,307
-","Iszuree Ibrahim  (GS-PAS)
-","8,757
-","Yim Boon Leong  (MUP)
-","733
-",,,,
-0,"P53
-","Balik Pulau
-","Muhammad Bakhtiar Wan Chik  (PH-PKR)
-","25,471
-","6,464
-","Hilmi Yahaya (BN-UMNO)
-","19,007
-","Hilmi Yahaya (BN-UMNO)
-","1,539
-","Muhammad Imran Muhammad Saad  (GS-PAS)
-","5,298
-",,,,,,
-0,"P54
-","Gerik
-","Hasbullah Osman  (BN-UMNO)
-","13,243
-","5,528
-","Mohd Dahalan Ismail  (PAS)
-","7,715
-","Hasbullah Osman  (BN-UMNO)
-","6,216
-","Ibrahim Mohd Hanafiah (PH-PPBM)
-","6,353
-",,,,,,
-0,"P55
-","Lenggong
-","Shamsul Anuar Nasarah  (BN-UMNO)
-","12,523
-","5,773
-","Muhammad Mujahid Mohammad Fadzil (PAS)
-","6,750
-","Shamsul Anuar Nasarah  (BN-UMNO)
-","4,161
-","Amirul Fairuzzeen Jamaluddin (PH-BERSATU)
-","3,932
-",,,,,,
-0,"P56
-","Larut
-","Hamzah Zainuddin  (BN-UMNO)
-","18,184
-","4,486
-","Abu Husin Mohamad (PAS)
-","13,698
-","Hamzah Zainuddin  (BN-UMNO)
-","5,296
-","Khairil Anuar Akhiruddin (PH-BERSATU)
-","7,738
-",,,,,,
-0,"P57
-","Parit Buntar
-","Mujahid Yusof Rawa  (PH-AMANAH)
-","16,753
-","3,098
-","Abdul Puhat Mat Nayan (BN-UMNO)
-","13,655
-","Mujahid Yusof Rawa  (PH-AMANAH)
-","8,476
-","Ahmad Azhar Sharin (PAS)
-","12,312
-",,,,,,
-0,"P58
-","Bagan Serai
-","Noor Azmi Ghazali (IND)
-","17,220
-","172
-","Rohaya Bakar (PAS)
-","17,048
-","Noor Azmi Ghazali (BN-UMNO)
-","1,140
-","Adam Asmuni (PH-BERSATU)
-","12,987
-",,,,,,
-0,"P59
-","Bukit Gantang
-","Syed Abu Hussin Hafiz Syed Abdul Fasal (IND)
-","22,450
-","4,089
-","Khadri Khalid (PH-BERSATU)
-","18,361
-","Idris Ahmad  (PAS)
-","986
-","Idris Ahmad  (PAS)
-","16,052
-",,,,,,
-0,"P60
-","Taiping
-","Teh Kok Lim (PH-DAP)
-","42,997
-","27,384
-","Tan Keng Liang (BN-GERAKAN)
-","15,613
-","Nga Kor Ming (PH-DAP)
-","11,745
-","Ibrahim Ismail  (BERJASA)
-","11,133
-",,,,,,
-0,"P61
-","Padang Rengas
-","Mohamed Nazri Abdul Aziz  (BN-UMNO)
-","10,491
-","2,548
-","Ejazi Yahaya  (PH-PKR)
-","7,943
-","Mohamed Nazri Abdul Aziz  (BN-UMNO)
-","2,230
-","Mohd. Azalan Mohamad Radzi  (PAS)
-","6,847
-",,,,,,
-0,"P62
-","Sungai Siput
-","Kesavan Subramaniam  (PH-PKR)
-","20,817
-","5,607
-","Devamany S. Krishnasamy  (BN-MIC)
-","15,210
-","Michael Jeyakumar Devaraj (PSM)
-","2,793
-","Ishak Ibrahim  (PAS)
-","5,194
-","Michael Jeyakumar Devaraj (PSM)
-","1,505
-",,,,
-0,"P63
-","Tambun
-","Ahmad Faizal Azumu (PH-BERSATU)
-","38,661
-","5,320
-","Ahmad Husni Hanadzlah  (BN-UMNO)
-","33,341
-","Ahmad Husni Hanadzlah  (BN-UMNO)
-","9,325
-","Muhamad Zulkifli Mohd Zakaria  (PAS)
-","14,948
-",,,,,,
-0,"P64
-","Ipoh Timor
-","Wong Kah Woh (PH-DAP)
-","56,519
-","42,797
-","Kathleen Wong Mei Yin  (BN-MCA)
-","13,722
-","Thomas Su Keong Siong (PH-DAP)
-","34,000
-",,,,,,,,
-0,"P65
-","Ipoh Barat
-","Kualasegaran Murugeson (PH-DAP)
-","55,613
-","45,724
-","Cheng Wei Yee  (BN-MCA)
-","9,889
-","Kulasegaran Murugeson (PH-DAP)
-","29,038
-",,,,,,,,
-0,"P66
-","Batu Gajah
-","V. Sivakumar (PH-DAP)
-","52,850
-","43,868
-","Leong Chee Wai  (BN-MCA)
-","8,982
-","V. Sivakumar (PH-DAP)
-","38,410
-","Kunasekaran Krishnan (PSM)
-","955
-",,,,,,
-0,"P67
-","Kuala Kangsar
-","Mastura Mohd Yazid  (BN-UMNO)
-","12,102
-","731
-","Ahmad Termizi Ramli  (PH-AMANAH)
-","11,371
-","Mastura Mohd Yazid  (BN-UMNO)
-","6,969
-","Khalil Idham Lim Abdullah  (PAS)
-","6,583
-",,,,,,
-0,"P68
-","Beruas
-","Ngeh Koo Ham (PH-DAP)
-","41,231
-","27,954
-","Pang Chok King  (BN-GERAKAN)
-","13,277
-","Ngeh Koo Ham (PH-DAP)
-","5,057
-","Mohamad Nazeer M. K. M. Hameed  (PAS)
-","5,759
-",,,,,,
-0,"P69
-","Parit
-","Mohd. Nizar Zakaria  (BN-UMNO)
-","14,035
-","6,320
-","Najihatusalehah Ahmad  (PAS)
-","7,715
-","Mohd Zaim Abu Hassan  (BN-UMNO)
-","4,497
-","bgcolor=""Template:Pakatan Harapan)/meta/color| Tarmizi Mohd Jam  (PH-AMANAH)
-","7,240
-",,,,,,
-0,"P70
-","Kampar
-","Thomas Su Keong Siong (PH-DAP)
-","30,216
-","11,801
-","Lee Chee Leong  (BN-MCA)
-","18,415
-","Ko Chung Sen  (PH-DAP)
-","5,400
-","Yougan Mahalingam  (PAS)
-","3,864
-",,,,,,
-0,"P71
-","Gopeng
-","Lee Boon Chye  (PH-PKR)
-","48,923
-","29,778
-","Heng Seai Kei  (BN-MCA)
-","19,415
-","Lee Boon Chye (PH-PKR)
-","15,309
-","Ismail Ariffin  (PAS)
-","11,165
-",,,,,,
-0,"P72
-","Tapah
-","Saravanan Murugan  (BN-MIC)
-","16,086
-","614
-","Mohamed Azni Mohamed Ali (PH-BERSATU)
-","15,472
-","Saravanan Murugan  (BN-MIC)
-","7,927
-","Nor Azli Musa  (PAS)
-","4,616
-",,,,,,
-0,"P73
-","Pasir Salak
-","Tajuddin Abdul Rahman  (BN-UMNO)
-","20,003
-","7,712
-","Salihuddin Radin Sumadi (PH-BERSATU)
-","12,291
-","Tajuddin Abdul Rahman  (BN-UMNO)
-","7,386
-","Zafarul Azhan Zan  (PAS)
-","11,151
-",,,,,,
-0,"P74
-","Lumut
-","Mohd Hatta Ramli  (PH-AMANAH)
-","21,955
-","400
-","Zambry Abd. Kadir  (BN-UMNO)
-","21,555
-","Mohamad Imran Abd. Hamid  (PH-PKR)
-","8,168
-","Mohd. Zamri Ibrahim  (PAS)
-","10,135
-",,,,,,
-0,"P75
-","Bagan Datuk (previously known as Bagan Datok)[3]
-","Ahmad Zahid Hamidi  (BN-UMNO)
-","18,909
-","5,073
-","Pakhrurrazi Haji Arshad  (PH-PKR)
-","13,836
-","Ahmad Zahid Hamidi  (BN-UMNO)
-","2,108
-","Abdul Munim Hasan Adli  (PAS)
-","4,061
-",,,,,,
-0,"P76
-","Teluk Intan (previously known as Telok Intan)[3]
-","Nga Kor Ming (PH-DAP)
-","29,170
-","11,179
-","Mah Siew Keong (BN-GERAKAN)
-","17,991
-","Mah Siew Keong (BN-GERAKAN)
-","238
-","Ahmad Ramadzan Ahmad Daud  (PAS)
-","6,494
-",,,,,,
-0,"P77
-","Tanjong Malim
-","Chang Lih Kang  (PH-PKR)
-","24,672
-","5,358
-","Mah Hang Soon  (BN-MCA)
-","19,314
-","Ong Ka Chuan  (BN-MCA)
-","4,328
-","Mohd. Tarmizi Abd. Rahman  (PAS)
-","10,311
-",,,,,,
-0,"P78
-","Cameron Highlands
-","C Sivarraajh  (BN-MIC)
-","10,307
-","597
-","M Manogaran  (PH-DAP)
-","9,710
-","G. Palanivel (IND)
-","462
-","Wan Mahadir Wan Mahmud  (GS-PAS)
-","3,587
-","Suresh Kumar Balasubramaniam (PSM)
-","680
-","Mohd Tahir Haji Kassim (BERJASA)
-","81
-",,
-0,"P79
-","Lipis
-","Abdul Rahman Mohamad  (BN-UMNO)
-","13,995
-","6,569
-","Ahmad Pozi Yahaya (PH-PPBM)
-","7,426
-","Abdul Rahman Mohamad  (BN-UMNO)
-","3,469
-","Sobirin Duli  (GS-PAS)
-","6,671
-",,,,,,
-0,"P80
-","Raub
-","Tengku Zulpuri Shah Raja Puji  (PH-DAP)
-","20,659
-","3,159
-","Chew Mei Fun  (BN-MCA)
-","17,500
-","Ariff Sabri Abdul Aziz  (PH-DAP)
-","2,814
-","Mohamed Nilam Abdul Manap  (GS-PAS)
-","7,866
-",,,,,,
-0,"P81
-","Jerantut
-","Ahmad Nazlan Idris  (BN-UMNO)
-","22,640
-","5,908
-","Yohanis Ahmad  (GS-PAS)
-","16,732
-","Tengku Azlan Sultan Abu Bakar  (BN-UMNO)
-","4,532
-","Wan Mohd Shaharir (PH-PPBM)
-","10,877
-",,,,,,
-0,"P82
-","Indera Mahkota
-","Saifuddin Abdullah  (PH-PKR)
-","28,578
-","10,950
-","Johan Mat Sah  (BN-UMNO)
-","17,628
-","Fauzi Abdul Rahman  (PH-PKR)
-","7,523
-","Nasrudin Hassan  (GS-PAS)
-","17,515
-",,,,,,
-0,"P83
-","Kuantan
-","Fuziah Salleh  (PH-PKR)
-","22,807
-","8,111
-","Sulaiman Mat Derus  (GS-PAS)
-","14,696
-","Fuziah Salleh (PH-PKR)
-","4,515
-","Wong Kiew Lee  (BN-MCA)
-","13,667
-",,,,,,
-0,"P84
-","Paya Besar
-","Mohd Shahar Abdullah  (BN-UMNO)
-","19,033
-","5,742
-","Mohamad Azhar Mohd. Noor  (GS-PAS)
-","13,291
-","Vacant [4]
-","7,715
-","Mohd. Ashraf Mustaqim Badrul Munir (PH-PPBM)
-","11,776
-",,,,,,
-0,"P85
-","Pekan
-","Najib Tun Razak (BN-UMNO)
-","43,854
-","24,859
-","Ahiatudin Daud  (GS-PAS)
-","18,995
-","Najib Tun Razak (BN-UMNO)
-","35,613
-","Kamarul Ariffin Mohd. Shahar (PH-PPBM)
-","7,662
-","Abd Kadir Sainudin (IND)
-","103
-",,,,
-0,"P86
-","Maran
-","Ismail Abd Muttalib (BN-UMNO)
-","16,064
-","3,763
-","Hasenan Haron  (GS-PAS)
-","12,301
-","Ismail Abd Muttalib (BN-UMNO)
-","6,475
-","Ahmad Farid Ahmad Nordin (PH-PPBM)
-","4,360
-",,,,,,
-0,"P87
-","Kuala Krau
-","Ismail Mohamed Said (BN-UMNO)
-","18,058
-","2,876
-","Kamal Ashaari  (GS-PAS)
-","15,182
-","Ismail Mohamed Said (BN-UMNO)
-","6,205
-","Mohamad Rafidee Hashim (PH-PPBM)
-","5,071
-",,,,,,
-0,"P88
-","Temerloh
-","Anuar Tahir  (PH-AMANAH)
-","23,998
-","1,904
-","Mohd Sharkar Shamsudin (BN-UMNO)
-","22,094
-","Nasrudin Hassan (GS-PAS)
-","1,070
-","Md Jusoh Darus  (GS-PAS)
-","14,734
-","Mohd Khaidir Ahmad (IND)
-","178
-","Muhamad Fakhrudin Abu Hanipah (IND)
-","46
-",,
-0,"P89
-","Bentong
-","Wong Tack  (PH-DAP)
-","25,716
-","2,032
-","Liow Tiong Lai (BN-MCA)
-","23,684
-","Liow Tiong Lai (BN-MCA)
-","379
-","N. Balasubramaniam  (GS-PAS)
-","5,706
-",,,,,,
-0,"P90
-","Bera
-","Ismail Sabri Yaakob (BN-UMNO)
-","20,760
-","2,311
-","Zakaria Abdul Hamid  (PH-PKR)
-","18,449
-","Ismail Sabri Yaakob (BN-UMNO)
-","2,143
-","Musaniff Rahman  (GS-PAS)
-","8,096
-",,,,,,
-0,"P91
-","Rompin
-","Hasan Arifin (BN-UMNO)
-","26,628
-","11,395
-","Mohd. Shahrul Nizam Abdul Haliff  (GS-PAS)
-","15,233
-","Hasan Arifin (BN-UMNO)
-","8,895
-","Sitarunisah Abdul Kadir  (PH-PKR)
-","7,876
-",,,,,,
-0,"P92
-","Sabak Bernam
-","Mohd Fasiah Mohd Fakeh  (BN-UMNO)
-","12,862
-","1,674
-","Warno Dogol (PH-PPBM)
-","11,188
-","Mohd Fasiah Mohd Fakeh  (BN-UMNO)
-","1,890
-","Muhamad Labib Abd Jalil  (GS-PAS)
-","9,300
-",,,,,,
-0,"P93
-","Sungai Besar
-","Muslimin Yahaya (PH-PPBM)
-","17,350
-","714
-","Budiman Mohd Zohdi (BN-UMNO)
-","16,636
-","Budiman Mohd Zohdi (BN-UMNO)
-","9,191
-","Mohd Salleh Mohd Hussin  (GS-PAS)
-","7,220
-",,,,,,
-0,"P94
-","Hulu Selangor
-","Leow Hsiad Hui (PH-PKR)
-","40,783
-","13,391
-","P. Kamalanathan (BN-MIC)
-","27,392
-","P. Kamalanathan (BN-MIC)
-","3,414
-","Wan Mat Wan Sulaiman  (GS-PAS)
-","16,620
-","Kumar SS Paramasivam (IND)
-","426
-",,,,
-0,"P95
-","Tanjong Karang
-","Noh Omar  (BN-UMNO)
-","17,596
-","1,970
-","Zulkaferi Hanafi (PH-PPBM)
-","15,626
-","Noh Omar  (BN-UMNO)
-","4,394
-","Azlan Ahmad  (GS-PAS)
-"," 7,276
-",,,,,,
-0,"P96
-","Kuala Selangor
-","Dzulkefly Ahmad  (PH-AMANAH)
-","29,842
-","8,498
-","Irmohizan Ibrahim  (BN-UMNO)
-","21,344
-","Irmohizan Ibrahim  (BN-UMNO)
-","460
-","Mohd Fakaruddin Ismail  (GS-PAS)
-","8,535
-",,,,,,
-0,"P97
-","Selayang
-","William Leong Jee Keen (PH-PKR)
-","60,158
-","40,657
-","Kang Meng Fuat  (BN-MCA)
-","19,501
-","William Leong Jee Keen (PH-PKR)
-","17,958
-","Hashim Abd Karim  (GS-PAS)
-","18,343
-",,,,,,
-0,"P98
-","Gombak
-","Mohamed Azmin Ali (PH-PKR)
-","75,113
-","48,721
-","Abd Rahim Kamarudin  (BN-UMNO)
-","26,392
-","Mohamed Azmin Ali (PH-PKR)
-","4,734
-","Khairil Nizam Khirudin  (GS-PAS)
-","17,537
-",,,,,,
-0,"P99
-","Ampang
-","Zuraida Kamarudin (PH-PKR)
-","54,307
-","41,956
-","Leong Kim Soon  (BN-MCA)
-","12,351
-","Zuraida Kamarudin (PH-PKR)
-","13,278
-","Nurul Islam Mohamed Yusoff  (GS-PAS)
-","9,598
-","Tan Hua Meng  (PRM)
-","294
-",,,,
-0,"P100
+",,,,,,,78.27%,20.25%,1.12%,0.03%,0.03%,0.00%,0.30%
+"P100
 ","Pandan
 ","Wan Azizah Wan Ismail  (PH-PKR)
 ","64,733
@@ -1226,8 +38,8 @@
 ","442
 ","Mohd Khairul Azam Abdul Aziz (IND)
 ","73
-",,
-0,"P101
+",,,45.58%,45.95%,7.12%,0.15%,0.34%,0.01%,0.85%
+"P101
 ","Hulu Langat
 ","Hasanuddin Mohd Yunus  (PH-AMANAH)
 ","49,004
@@ -1238,8 +50,8 @@
 ","17,267
 ","Che Rosli Che Mat  (GS-PAS)
 ","15,663
-",,,,,,
-0,"P102
+",,,,,,,64.98%,22.08%,10.43%,0.27%,0.31%,0.75%,1.19%
+"P102
 ","Bangi (previously known as Serdang)[3]
 ","Ong Kian Ming (PH-DAP)
 ","102,557
@@ -1252,8 +64,8 @@
 ","19,766
 ","Wan Jinn Woei  (PRM)
 ","215
-",,,,
-0,"P103
+",,,,,48.46%,38.96%,11.13%,0.22%,0.28%,0.01%,0.93%
+"P103
 ","Puchong
 ","Gobind Singh Deo (PH-DAP)
 ","60,429
@@ -1264,8 +76,8 @@
 ","32,802
 ","Mohamad Rosalizan Roslan  (GS-PAS)
 ","10,255
-",,,,,,
-0,"P104
+",,,,,,,36.85%,51.99%,10.04%,0.17%,0.32%,0.15%,0.49%
+"P104
 ","Subang (previously known as Kelana Jaya)[3]
 ","Wong Chen (PH-PKR)
 ","104,430
@@ -1278,8 +90,8 @@
 ","9,025
 ","Toh Sin Wah (IND)
 ","173
-",,,,
-0,"P105
+",,,,,26.61%,56.49%,15.16%,0.27%,0.41%,0.01%,1.05%
+"P105
 ","Petaling Jaya (previously known as Petaling Jaya Selatan)[3]
 ","Maria Chin Abdullah (PH-PKR)
 ","78,984
@@ -1290,8 +102,8 @@
 ","19,216
 ","Noraini Hussin  (GS-PAS)
 ","14,448
-",,,,,,
-0,"P106
+",,,,,,,46.55%,32.05%,19.54%,0.22%,0.31%,0.01%,1.32%
+"P106
 ","Damansara (previously known as Petaling Jaya Utara)[3]
 ","Tony Pua Kiam Wee (PH-DAP)
 ","121,283
@@ -1302,8 +114,8 @@
 ","44,672
 ","Wong Mun Kheong  (PRM)
 ","617
-",,,,,,
-0,"P107
+",,,,,,,19.67%,69.42%,9.42%,0.12%,0.18%,0.20%,0.99%
+"P107
 ","Sungai Buloh (previously known as Subang)[3]
 ","Sivarasa K. Rasiah (PH-PKR)
 ","43,631
@@ -1316,8 +128,8 @@
 ","16,681
 ","Zainurizzaman Moharam (PSM)
 ","642
-",,,,
-0,"P108
+",,,,,65.32%,21.64%,10.72%,0.47%,0.45%,0.04%,1.35%
+"P108
 ","Shah Alam
 ","Khalid Abdul Samad  (PH-AMANAH)
 ","55,949
@@ -1328,8 +140,8 @@
 ","10,939
 ","Mohd Zuhdi Marzuki  (GS-PAS)
 ","15,194
-",,,,,,
-0,"P109
+",,,,,,,75.26%,10.83%,12.79%,0.23%,0.30%,0.07%,0.53%
+"P109
 ","Kapar
 ","Abdullah Sani Abdul Hamid (PH-PKR)
 ","47,731
@@ -1342,8 +154,22 @@
 ","26,412
 ","S Manikavasagam Sundaram  (PRM)
 ","525
-",,,,
-0,"P110
+",,,,,70.71%,14.79%,13.55%,0.09%,0.25%,0.02%,0.58%
+"P011
+","Pendang
+","Awang Hashim  (GS-PAS)
+","26,536
+","5,808
+","Othman Abdul  (BN-UMNO)
+","20,728
+","Othman Abdul  (BN-UMNO)
+","2,638
+","Wan Saiful Wan Jan (PH-PPBM)
+","14,901
+","Abdul Malik Manaf (IND)
+","81
+",,,,,88.76%,5.07%,0.54%,0.03%,0.03%,0.01%,5.57%
+"P110
 ","Klang
 ","Charles Santiago (PH-DAP)
 ","98,279
@@ -1356,8 +182,8 @@
 ","9,169
 ","Puvananderan Ganasamoorthy  (IND)
 ","120
-",,,,
-0,"P111
+",,,,,26.44%,55.26%,17.09%,0.13%,0.37%,0.05%,0.67%
+"P111
 ","Kota Raja
 ","Mohamad Sabu  (PH-AMANAH)
 ","90,697
@@ -1368,8 +194,8 @@
 ","29,395
 ","V. Gunalan  (BN-MIC)
 ","17,874
-",,,,,,
-0,"P112
+",,,,,,,43.15%,27.65%,27.69%,0.15%,0.59%,0.01%,0.77%
+"P112
 ","Kuala Langat
 ","Xavier Jayakumar Arul Anandam (PH-PKR)
 ","43,239
@@ -1380,8 +206,8 @@
 ","5,358
 ","Yahya Baba  (GS-PAS)
 ","18,731
-",,,,,,
-0,"P113
+",,,,,,,57.17%,24.02%,16.28%,0.13%,0.18%,1.71%,0.50%
+"P113
 ","Sepang
 ","Mohamed Hanipa Maidin (PH-AMANAH)
 ","46,740
@@ -1392,8 +218,8 @@
 ","1,142
 ","Sabirin Marsono  (GS-PAS)
 ","15,882
-",,,,,,
-0,"P114
+",,,,,,,62.32%,20.34%,14.21%,0.23%,0.30%,2.05%,0.55%
+"P114
 ","Kepong
 ","Lim Lip Eng (PH-DAP)
 ","56,516
@@ -1402,8 +228,8 @@
 ","4,888
 ","Tan Seng Giaw (PH-DAP)
 ","40,307
-",,,,,,,,
-0,"P115
+",,,,,,,,,4.56%,88.74%,6.03%,0.05%,0.30%,0.00%,0.32%
+"P115
 ","Batu
 ","Prabakaran M Parameswaran (PH-PKR)
 ","38,125
@@ -1416,8 +242,8 @@
 ","10,610
 ","VM Panjamothy Muthusamy (IND)
 ","383
-",,,,
-0,"P116
+",,,,,42.52%,38.27%,17.47%,0.44%,0.32%,0.02%,0.96%
+"P116
 ","Wangsa Maju
 ","Tan Yee Kew (PH-PKR)
 ","42,178
@@ -1428,8 +254,8 @@
 ","5,511
 ","Razali Tumiran  (GS-PAS)
 ","13,490
-",,,,,,
-0,"P117
+",,,,,,,59.81%,29.57%,8.19%,0.59%,0.45%,0.04%,1.36%
+"P117
 ","Segambut
 ","Hannah Yeoh (PH-DAP)
 ","53,124
@@ -1440,8 +266,8 @@
 ","19,199
 ","Muhammad Soleh Abdul Razak  (GS-PAS)
 ","4,181
-",,,,,,
-0,"P118
+",,,,,,,27.53%,58.91%,11.78%,0.12%,0.14%,0.01%,1.50%
+"P118
 ","Setiawangsa
 ","Nik Nazmi  (PH-PKR)
 ","34,471
@@ -1452,8 +278,8 @@
 ","1,390
 ","Ubaid Abdul Akla  (GS-PAS)
 ","6,282
-",,,,,,
-0,"P119
+",,,,,,,61.08%,25.87%,10.39%,1.08%,0.75%,0.04%,0.78%
+"P119
 ","Titiwangsa
 ","Rina Harun (PH-PPBM)
 ","23,840
@@ -1464,8 +290,20 @@
 ","866
 ","Mohammad Noor Mohammad  (GS-PAS)
 ","6,845
-",,,,,,
-0,"P120
+",,,,,,,70.48%,17.31%,9.42%,0.37%,0.49%,0.01%,1.91%
+"P012
+","Jerai
+","Mohd Ismail  (GS-PAS)
+","22,312
+","539
+","Jamil Khir Baharom  (BN-UMNO)
+","21,773
+","Jamil Khir Baharom  (BN-UMNO)
+","1,196
+","Akhramsyah Muammar Ubaidah Sanusi (PH-PPBM)
+","21,651
+",,,,,,,80.19%,13.57%,5.91%,0.04%,0.02%,0.00%,0.26%
+"P120
 ","Bukit Bintang
 ","Fong Kui Lun (PH-DAP)
 ","44,516
@@ -1476,8 +314,8 @@
 ","19,399
 ","Khairul  (PFP)
 ","636
-",,,,,,
-0,"P121
+",,,,,,,12.53%,75.13%,10.95%,0.28%,0.37%,0.02%,0.73%
+"P121
 ","Lembah Pantai
 ","Fahmi Fadzil (PH-PKR)
 ","33,313
@@ -1488,8 +326,8 @@
 ","1,847
 ","Lar Fauzi Abu Bakar  (GS-PAS)
 ","5,277
-",,,,,,
-0,"P122
+",,,,,,,62.11%,18.91%,16.26%,0.48%,0.67%,0.02%,1.55%
+"P122
 ","Seputeh
 ","Teresa Kok Suh Sim (PH-DAP)
 ","63,094
@@ -1498,8 +336,8 @@
 ","7,035
 ","Teresa Kok Suh Sim (PH-DAP)
 ","51,522
-",,,,,,,,
-0,"P123
+",,,,,,,,,9.04%,82.02%,7.88%,0.08%,0.22%,0.00%,0.75%
+"P123
 ","Cheras
 ","Tan Kok Wai (PH-DAP)
 ","56,671
@@ -1508,8 +346,8 @@
 ","7,006
 ","Tan Kok Wai (PH-DAP)
 ","37,409
-",,,,,,,,
-0,"P124
+",,,,,,,,,9.66%,82.93%,6.74%,0.06%,0.22%,0.01%,0.38%
+"P124
 ","Bandar Tun Razak
 ","Kamarudin Jaffar (PH-PKR)
 ","41,126
@@ -1520,8 +358,8 @@
 ","11,832
 ","Rosni Adam  (GS-PAS)
 ","7,884
-",,,,,,
-0,"P125
+",,,,,,,61.10%,29.10%,8.27%,0.53%,0.42%,0.01%,0.57%
+"P125
 ","Putrajaya
 ","Tengku Adnan Tengku Mansor  (BN-UMNO)
 ","12,148
@@ -1532,8 +370,8 @@
 ","5,541
 ","Zainal Abidin Kidam  (GS-PAS)
 ","3,634
-",,,,,,
-0,"P126
+",,,,,,,94.16%,0.89%,3.19%,0.42%,0.85%,0.04%,0.46%
+"P126
 ","Jelebu
 ","Jalaluddin Alias  (BN-UMNO)
 ","19,062
@@ -1544,8 +382,8 @@
 ","7,101
 ","Norman Ipin  (GS-PAS)
 ","2,878
-",,,,,,
-0,"P127
+",,,,,,,64.99%,24.10%,5.69%,0.15%,0.25%,4.58%,0.20%
+"P127
 ","Jempol
 ","Mohd Salim Shariff  (BN-UMNO)
 ","26,819
@@ -1556,8 +394,8 @@
 ","8,629
 ","Mustaffa Daharun  (GS-PAS)
 ","5,267
-",,,,,,
-0,"P128
+",,,,,,,63.34%,23.24%,12.32%,0.05%,0.06%,0.77%,0.21%
+"P128
 ","Seremban
 ","Loke Siew Fook  (PH-DAP)
 ","55,503
@@ -1568,8 +406,8 @@
 ","12,533
 ","Shariffuddin Ahmad  (GS-PAS)
 ","11,506
-",,,,,,
-0,"P129
+",,,,,,,48.54%,36.63%,13.21%,0.14%,0.19%,0.70%,0.58%
+"P129
 ","Kuala Pilah
 ","Eddin Syazlee Shith (PH-PPBM)
 ","18,045
@@ -1580,8 +418,20 @@
 ","9,661
 ","Rafiei Mustapha  (GS-PAS)
 ","4,347
-",,,,,,
-0,"P130
+",,,,,,,77.02%,15.83%,4.86%,0.10%,0.07%,1.89%,0.23%
+"P013
+","Sik
+","Ahmad Tarmizi Sulaiman  (GS-PAS)
+","20,088
+","5,218
+","Mansor Abdul Rahman  (BN-UMNO)
+","14,870
+","Mansor Abdul Rahman  (BN-UMNO)
+","2,807
+","Azli Uda  (PH-AMANAH)
+","6,970
+",,,,,,,92.98%,1.46%,0.17%,0.03%,0.05%,0..01%,5.31%
+"P130
 ","Rasah
 ","Cha Kee Chin  (PH-DAP)
 ","61,806
@@ -1594,8 +444,8 @@
 ","8,260
 ","David Dass Aseerpatham  (PAP)
 ","302
-",,,,
-0,"P131
+",,,,,29.62%,47.81%,20.96%,0.21%,0.18%,0.41%,0.80%
+"P131
 ","Rembau
 ","Khairy Jamaluddin  (BN-UMNO)
 ","36,096
@@ -1606,8 +456,8 @@
 ","18,357
 ","Mustafa Dolah  (GS-PAS)
 ","6,028
-",,,,,,
-0,"P132
+",,,,,,,73.31%,10.32%,15.41%,0.13%,0.12%,0.39%,0.34%
+"P132
 ","Port Dickson (previously known as Telok Kemang)[3]
 ","Danyal Balagopal Abdullah (PH-PKR)
 ","36,225
@@ -1618,8 +468,8 @@
 ","1,579
 ","Mahfuz Roslan  (GS-PAS)
 ","6,594
-",,,,,,
-0,"P133
+",,,,,,,42.73%,33.09%,21.96%,0.93%,0.62%,0.20%,0.47%
+"P133
 ","Tampin
 ","Hasan Baharom  (PH-AMANAH)
 ","22,435
@@ -1630,8 +480,8 @@
 ","11,162
 ","Abdul Halim Abu Bakar  (GS-PAS)
 ","4,598
-",,,,,,
-0,"P134
+",,,,,,,62.87%,23.51%,11.80%,1.00%,0.39%,0.14%,0.30%
+"P134
 ","Masjid Tanah
 ","Mas Ermieyati Samsudin (quit BN)  (IND)
 ","22,898
@@ -1642,8 +492,8 @@
 ","16,200
 ","Mohd. Nasir Othman  (GS-PAS)
 ","4,688
-",,,,,,
-0,"P135
+",,,,,,,83.17%,11.95%,3.71%,0.12%,0.09%,0.37%,0.58%
+"P135
 ","Alor Gajah
 ","Mohd. Redzuan Yusof (PH-PPBM)
 ","29,330
@@ -1654,8 +504,8 @@
 ","11,597
 ","Mohammad Nazree Mohammad Aris  (GS-PAS)
 ","6,135
-",,,,,,
-0,"P136
+",,,,,,,60.83%,25.30%,12.87%,0.08%,0.09%,0.61%,0.22%
+"P136
 ","Tangga Batu
 ","Rusnah Aluai  (PH-PKR)
 ","32,420
@@ -1666,8 +516,8 @@
 ","15,633
 ","Zulkifli Ismail  (GS-PAS)
 ","8,961
-",,,,,,
-0,"P137
+",,,,,,,70.96%,22.10%,3.53%,1.64%,1.03%,0.08%,0.65%
+"P137
 ","Hang Tuah Jaya (previously known as Bukit Katil)[3]
 ","Shamsul Iskandar  (PH-PKR)
 ","39,067
@@ -1678,8 +528,8 @@
 ","5,733
 ","Md. Khalid Kassim  (GS-PAS)
 ","7,089
-",,,,,,
-0,"P138
+",,,,,,,62.38%,31.11%,5.69%,0.13%,0.17%,0.00%,0.52%
+"P138
 ","Kota Melaka
 ","Khoo Poay Tiong  (PH-DAP)
 ","76,518
@@ -1690,8 +540,8 @@
 ","20,746
 ","Goh Leong San (IND)
 ","1,415
-",,,,,,
-0,"P139
+",,,,,,,37.39%,57.13%,4.01%,0.10%,0.11%,0.01%,1.25%
+"P139
 ","Jasin
 ","Ahmad Hamzah  (BN-UMNO)
 ","26,560
@@ -1702,8 +552,20 @@
 ","11,763
 ","Abd. Alim Shapie  (GS-PAS)
 ","8,860
-",,,,,,
-0,"P140
+",,,,,,,73.49%,16.18%,9.78%,0.07%,0.06%,0.12%,0.29%
+"P014
+","Merbok
+","Nurin Aina Abdullah (PH-PKR)
+","30,902
+","10,072
+","Tajul Urus Mat Zain (BN-UMNO)
+","20,830
+","Ismail Daut (BN-UMNO)
+","4,122
+","Ahmad Fauzi Ramli  (GS-PAS)
+","19,618
+",,,,,,,68.59%,15.05%,15.34%,0.39%,0.16%,0.01%,0.46%
+"P140
 ","Segamat
 ","Edmund Santhara  (PH-PKR)
 ","24,060
@@ -1714,8 +576,8 @@
 ","1,217
 ","Khairul Faizi Ahmad Kamil  (GS-PAS)
 ","2,676
-",,,,,,
-0,"P141
+",,,,,,,45.41%,43.49%,10.25%,0.29%,0.24%,0.10%,0.23%
+"P141
 ","Sekijang
 ","Natrah Ismail  (PH-PKR)
 ","19,559
@@ -1724,8 +586,8 @@
 ","18,278
 ","Anuar Abd. Manap  (BN-UMNO)
 ","3,007
-",,,,,,,,
-0,"P142
+",,,,,,,,,59.25%,36.15%,4.00%,0.05%,0.03%,0.18%,0.35%
+"P142
 ","Labis
 ","Pang Hok Liong  (PH-DAP)
 ","16,709
@@ -1736,8 +598,8 @@
 ","353
 ","Sarchu Sawal  (GS-PAS)
 ","2,020
-",,,,,,
-0,"P143
+",,,,,,,37.98%,44.96%,14.66%,0.05%,0.07%,2.04%,0.24%
+"P143
 ","Pagoh
 ","Muhyiddin Yassin (PH-PPBM)
 ","23,558
@@ -1748,8 +610,8 @@
 ","12,842
 ","Ahmad Nawfal Mahfodz  (GS-PAS)
 ","2,483
-",,,,,,
-0,"P144
+",,,,,,,65.96%,29.75%,3.72%,0.04%,0.04%,0.34%,0.15%
+"P144
 ","Ledang
 ","Syed Ibrahim Syed Noh  (PH-PKR)
 ","34,706
@@ -1760,8 +622,8 @@
 ","1,967
 ","Rusman Kemin  (GS-PAS)
 ","4,668
-",,,,,,
-0,"P145
+",,,,,,,55.76%,39.03%,4.57%,0.04%,0.06%,0.36%,0.19%
+"P145
 ","Bakri
 ","Yeo Bee Yin  (PH-DAP)
 ","38,718
@@ -1772,8 +634,8 @@
 ","5,067
 ","Zarul @ Mohammad Zahrul Salleh  (GS-PAS)
 ","7,575
-",,,,,,
-0,"P146
+",,,,,,,44.21%,53.16%,2.16%,0.07%,0.08%,0.00%,0.31%
+"P146
 ","Muar
 ","Syed Saddiq Syed Abdul Rahman (PH-PPBM)
 ","22,341
@@ -1784,8 +646,8 @@
 ","1,646
 ","Abdul Aziz Talib  (GS-PAS)
 ","4,354
-",,,,,,
-0,"P147
+",,,,,,,66.73%,31.47%,1.32%,0.07%,0.08%,0.01%,0.32%
+"P147
 ","Parit Sulong
 ","Noraini Ahmad  (BN-UMNO)
 ","24,481
@@ -1796,8 +658,8 @@
 ","11,753
 ","Ahmad Rosdi Bahari  (GS-PAS)
 ","7,148
-",,,,,,
-0,"P148
+",,,,,,,78.32%,20.85%,0.48%,0.05%,0.03%,0.03%,0.23%
+"P148
 ","Ayer Hitam
 ","Wee Ka Siong  (BN-MCA)
 ","17,076
@@ -1808,8 +670,8 @@
 ","7,310
 ","Mardi Marwan  (GS-PAS)
 ","4,975
-",,,,,,
-0,"P149
+",,,,,,,57.41%,38.26%,3.99%,0.04%,0.02%,0.00%,0.26%
+"P149
 ","Sri Gading
 ","Shahruddin Md. Salleh (PH-PPBM)
 ","21,511
@@ -1820,8 +682,22 @@
 ","5,761
 ","M. Ash’ari Sudin  (GS-PAS)
 ","4,548
-",,,,,,
-0,"P150
+",,,,,,,65.14%,33.03%,1.46%,0.04%,0.07%,0.01%,0.26%
+"P015
+","Sungai Petani
+","Johari Abdul (PH-PKR)
+","45,532
+","21,569
+","Shahanim Mohd Yusof (BN-UMNO)
+","23,963
+","Johari Abdul (PH-PKR)
+","9,548
+","Shahri Long  (GS-PAS)
+","22,760
+","Sritharan Pichathu  (PRM)
+","279
+",,,,,60.71%,26.83%,11.96%,0.05%,0.03%,0.01%,0.42%
+"P150
 ","Batu Pahat
 ","Mohd Rashid Hasnon  (PH-PKR)
 ","45,929
@@ -1832,8 +708,8 @@
 ","1,524
 ","Mahfodz Mohamed  (GS-PAS)
 ","8,173
-",,,,,,
-0,"P151
+",,,,,,,54.63%,43.49%,1.30%,0.05%,0.07%,0.10%,0.35%
+"P151
 ","Simpang Renggam
 ","Maszlee Malik (PH-PPBM)
 ","18,157
@@ -1844,8 +720,8 @@
 ","5,706
 ","Mohd Jubri Selamat  (GS-PAS)
 ","2,983
-",,,,,,
-0,"P152
+",,,,,,,59.90%,30.45%,8.90%,0.10%,0.13%,0.02%,0.51%
+"P152
 ","Kluang
 ","Wong Shu Qi  (PH-DAP)
 ","47,671
@@ -1856,8 +732,8 @@
 ","7,359
 ","Muhammad Hasbullah Md Najib  (GS-PAS)
 ","8,242
-",,,,,,
-0,"P153
+",,,,,,,41.62%,47.49%,9.38%,0.69%,0.30%,0.04%,0.47%
+"P153
 ","Sembrong
 ","Hishamuddin Hussein  (BN-UMNO)
 ","21,353
@@ -1866,8 +742,8 @@
 ","14,691
 ","Hishamuddin Hussein  (BN-UMNO)
 ","10,631
-",,,,,,,,
-0,"P154
+",,,,,,,,,60.41%,29.18%,8.66%,0.04%,0.04%,1.31%,0.35%
+"P154
 ","Mersing
 ","Abdul Latiff Ahmad  (BN-UMNO)
 ","19,806
@@ -1878,8 +754,8 @@
 ","15,747
 ","A. Rahman A. Hamid  (GS-PAS)
 ","6,215
-",,,,,,
-0,"P155
+",,,,,,,81.44%,14.29%,1.26%,0.60%,0.44%,1.69%,0.29%
+"P155
 ","Tenggara
 ","Adham Baba  (BN-UMNO)
 ","20,142
@@ -1890,8 +766,8 @@
 ","17,196
 ","Yuhanita Yunan  (GS-PAS)
 ","2,683
-",,,,,,
-0,"P156
+",,,,,,,74.66%,16.13%,6.59%,1.13%,0.40%,0.56%,0.52%
+"P156
 ","Kota Tinggi
 ","Halimah Mohd Sadique  (BN-UMNO)
 ","26,407
@@ -1900,8 +776,8 @@
 ","11,786
 ","Noor Ehsanuddin Mohd Harun Narrashid  (BN-UMNO)
 ","24,574
-",,,,,,,,
-0,"P157
+",,,,,,,,,88.35%,9.28%,1.85%,0.09%,0.06%,0.07%,0.27%
+"P157
 ","Pengerang
 ","Azalina Othman Said  (BN-UMNO)
 ","21,829
@@ -1910,8 +786,8 @@
 ","10,412
 ","Azalina Othman Said  (BN-UMNO)
 ","22,508
-",,,,,,,,
-0,"P158
+",,,,,,,,,89.60%,8.88%,0.77%,0.18%,0.17%,0.22%,0.19%
+"P158
 ","Tebrau
 ","Steven Choong  (PH-PKR)
 ","64,535
@@ -1922,8 +798,8 @@
 ","1,767
 ","Abdullah Husin  (GS-PAS)
 ","12,098
-",,,,,,
-0,"P159
+",,,,,,,47.26%,39.31%,11.53%,0.67%,0.27%,0.08%,0.88%
+"P159
 ","Pasir Gudang
 ","Hassan Abdul Karim  (PH-PKR)
 ","61,615
@@ -1936,8 +812,20 @@
 ","6,278
 ","Chee Jock  (IND)
 ","227
-",,,,
-0,"P160
+",,,,,48.82%,37.08%,10.47%,1.41%,1.34%,0.08%,0.81%
+"P016
+","Baling
+","Abdul Azeez Abdul Rahim  (BN-UMNO)
+","38,557
+","1,074
+","Hassan Saad  (GS-PAS)
+","37,483
+","Abdul Azeez Abdul Rahim  (BN-UMNO)
+","5,185
+","Mohd Taufik Haji Yaacob (PH-PPBM)
+","14,472
+",,,,,,,88.87%,4.37%,5.14%,0.04%,0.05%,0.11%,1.41%
+"P160
 ","Johor Bahru
 ","Akmal Nasrullah Nasir  (PH-PKR)
 ","50,052
@@ -1946,8 +834,8 @@
 ","30,270
 ","Shahrir Abdul Samad  (BN-UMNO)
 ","10,495
-",,,,,,,,
-0,"P161
+",,,,,,,,,52.67%,41.07%,5.14%,0.24%,0.18%,0.02%,0.68%
+"P161
 ","Pulai
 ","Salahuddin Ayub  (PH-AMANAH)
 ","55,447
@@ -1960,8 +848,8 @@
 ","4,332
 ","Yap Keng Tak  (IND)
 ","591
-",,,,
-0,"P162
+",,,,,49.05%,39.21%,10.27%,0.36%,0.30%,0.17%,0.64%
+"P162
 ","Iskandar Puteri (previously known as Gelang Patah)[3]
 ","Lim Kit Siang  (PH-DAP)
 ","80,726
@@ -1970,8 +858,8 @@
 ","35,862
 ","Lim Kit Siang  (PH-DAP)
 ","14,762
-",,,,,,,,
-0,"P163
+",,,,,,,,,36.65%,49.79%,12.46%,0.32%,0.20%,0.22%,0.36%
+"P163
 ","Kulai
 ","Teo Nie Ching  (PH-DAP)
 ","55,312
@@ -1982,8 +870,8 @@
 ","13,450
 ","Juwahir bin Amin  (GS-PAS)
 ","6,667
-",,,,,,
-0,"P164
+",,,,,,,34.95%,54.05%,10.24%,0.18%,0.20%,0.01%,0.36%
+"P164
 ","Pontian
 ","Ahmad Maslan  (BN-UMNO)
 ","21,132
@@ -1994,8 +882,8 @@
 ","13,727
 ","Baharom Mohamad (GS-PAS)
 ","4,295
-",,,,,,
-0,"P165
+",,,,,,,68.23%,30.11%,1.03%,0.06%,0.04%,0.07%,0.46%
+"P165
 ","Tanjung Piai (previously known as Tanjong Piai)[3]
 ","Md. Farid Md. Rafik (PH-PPBM)
 ","21,255
@@ -2006,8 +894,8 @@
 ","5,457
 ","Nordin Othman (GS-BERJASA)
 ","2,962
-",,,,,,
-0,"P166
+",,,,,,,56.80%,41.64%,1.00%,0.08%,0.08%,0.01%,0.38%
+"P166
 ","Labuan
 ","Rozman Isli  (BN-UMNO)
 ","10,164
@@ -2020,8 +908,8 @@
 ","1,555
 ","Siti Zaleha S.W. Ibrahim  (USA-PHRS)
 ","925
-",,,,
-0,"P167
+",,,,,42.04%,20.68%,1.36%,1.70%,31.15%,0.01%,3.06%
+"P167
 ","Kudat
 ","Abdul Rahim Bakri  (BN-UMNO)
 ","18,503
@@ -2032,8 +920,8 @@
 ","12,376
 ","Mohd. Ashraf Chin Abdullah  (USA-PPRS)
 ","1,432
-",,,,,,
-0,"P168
+",,,,,,,6.39%,9.40%,0.15%,0.30%,72.53%,0.01%,11.21%
+"P168
 ","Kota Marudu
 ","Maximus Ongkili  (BN-PBS)
 ","13,033
@@ -2046,8 +934,8 @@
 ","7,113
 ","Dr. Paul Porodong  (PCS)
 ","2,501
-",,,,
-0,"P169
+",,,,,4.04%,2.17%,0.09%,0.26%,91.91%,0.01%,1.50%
+"P169
 ","Kota Belud
 ","Isnaraissah Munirah Majilis (WARISAN)
 ","23,429
@@ -2060,8 +948,20 @@
 ","2,092
 ","Ag. Laiman Ikin  (GS-PAS)
 ","1,410
-",,,,
-0,"P170
+",,,,,4.47%,1.45%,0.16%,0.24%,91.78%,0.00%,1.90%
+"P017
+","Padang Serai
+","Karupaiya Mutusamy  (PH-PKR)
+","31,724
+","8,813
+","Muhd Sobri Osman  (GS-PAS)
+","22,911
+","N Surendran K Nagarajan  (PH-PKR)
+","8,437
+","Leong Yong Kong (BN-MCA)
+","15,449
+",,,,,,,59.07%,19.78%,20.73%,0.04%,0.01%,0.00%,0.33%
+"P170
 ","Tuaran
 ","Wilfred Madius Tangau  (BN-UPKO)
 ","22,494
@@ -2076,8 +976,8 @@
 ","2,311
 ","Mohd. Aminuddin Aling  (GS-PAS)
 ","1,357
-",,
-0,"P171
+",,,5.16%,5.35%,0.23%,0.38%,87.12%,0.00%,1.76%
+"P171
 ","Sepanggar
 ","Azis Jamman  (WARISAN)
 ","28,420
@@ -2090,8 +990,8 @@
 ","2,958
 ","Robert Sopining  (PCS)
 ","971
-",,,,
-0,"P172
+",,,,,16.21%,19.60%,0.54%,0.79%,57.35%,0.02%,5.50%
+"P172
 ","Kota Kinabalu
 ","Chan Foong Hin  (PH-DAP)
 ","31,632
@@ -2102,8 +1002,8 @@
 ","18,959
 ","Yong Teck Lee  (USA-SAPP)
 ","3,132
-",,,,,,
-0,"P173
+",,,,,,,5.37%,63.81%,0.93%,0.43%,26.07%,0.00%,3.39%
+"P173
 ","Putatan
 ","Awang Husaini Sahari  (PH-PKR)
 ","14,106
@@ -2118,8 +1018,8 @@
 ","1,755
 ","Mil Kusin Abdillah Sulai  (ANAK NEGERI)
 ","728
-",,
-0,"P174
+",,,22.53%,16.09%,0.73%,1.07%,53.70%,0.02%,5.85%
+"P174
 ","Penampang
 ","Ignatius Dorell Leiking  (WARISAN)
 ","32,470
@@ -2132,8 +1032,8 @@
 ","1,196
 ","Dr. Edwin Bosi  (ANAK NEGERI)
 ","445
-",,,,
-0,"P175
+",,,,,5.30%,33.51%,0.74%,0.69%,58.11%,0.00%,1.64%
+"P175
 ","Papar
 ","Ahmad Hassan  (WARISAN)
 ","17,394
@@ -2146,8 +1046,8 @@
 ","892
 ","Elbert Sikuil  (PCS)
 ","481
-",,,,
-0,"P176
+",,,,,10.27%,7.79%,0.38%,0.61%,77.55%,0.00%,3.40%
+"P176
 ","Kimanis
 ","Anifah Aman  (BN-UMNO)
 ","11,942
@@ -2158,8 +1058,8 @@
 ","5,723
 ","Jaafar Ismail  (USA-PHRS)
 ","1,300
-",,,,,,
-0,"P177
+",,,,,,,11.36%,3.65%,0.16%,0.54%,81.82%,0.00%,2.47%
+"P177
 ","Beaufort
 ","Azizah Mohd Dun  (BN-UMNO)
 ","11,354
@@ -2170,8 +1070,8 @@
 ","673
 ","John Ghani  (PH-PKR)
 ","7,835
-",,,,,,
-0,"P178
+",,,,,,,8.32%,6.84%,0.33%,0.63%,81.85%,0.01%,2.02%
+"P178
 ","Sipitang
 ","Yamani Hafez Musa  (BN-UMNO)
 ","12,038
@@ -2182,8 +1082,8 @@
 ","9,469
 ","Dayang Aezzy Liman  (USA-PHRS)
 ","1,547
-",,,,,,
-0,"P179
+",,,,,,,9.71%,4.05%,0.18%,1.69%,82.36%,0.00%,2.02%
+"P179
 ","Ranau
 ","Jonathan Yasin  (PH-PKR)
 ","14,880
@@ -2196,8 +1096,20 @@
 ","3,148
 ","Andau Yasun  (PCS)
 ","1,110
-",,,,
-0,"P180
+",,,,,3.07%,1.78%,0.07%,0.33%,94.03%,0.01%,0.72%
+"P018
+","Kulim-Bandar Baharu
+","Saifuddin Nasution Ismail  (PH-PKR)
+","23,159
+","4,860
+","Abd. Aziz Sheikh Fadzir  (BN-UMNO)
+","18,299
+","Abd. Aziz Sheikh Fadzir  (BN-UMNO)
+","1,871
+","Hassan Abdul Razak  (GS-PAS)
+","12,885
+",,,,,,,69.18%,17.65%,12.88%,0.07%,0.06%,0.00%,0.16%
+"P180
 ","Keningau
 ","Jeffrey Kitingan  (USA-STAR)
 ","13,286
@@ -2214,8 +1126,8 @@
 ","248
 ","Justin Guka  (IND)
 ","199
-"
-0,"P181
+",5.70%,8.92%,0.20%,0.65%,82.26%,0.01%,2.27%
+"P181
 ","Tenom
 ","Noorita Sual  (PH-DAP)
 ","11,363
@@ -2226,8 +1138,8 @@
 ","3,886
 ","Yuslinah Laikim  (USA-PHRS)
 ","645
-",,,,,,
-0,"P182
+",,,,,,,7.09%,10.49%,0.12%,0.49%,80.13%,0.00%,1.67%
+"P182
 ","Pensiangan
 ","Arthur Joseph Kurup  (BN-PBRS)
 ","11,783
@@ -2242,8 +1154,8 @@
 ","212
 ","Engah Sintan  (IND)
 ","65
-",,
-0,"P183
+",,,2.69%,1.27%,0.08%,0.28%,94.83%,0.00%,0.84%
+"P183
 ","Beluran
 ","Ronald Kiandee  (BN-UMNO)
 ","13,007
@@ -2260,8 +1172,8 @@
 ","273
 ","Salimah Oyong  (IND)
 ","246
-"
-0,"P184
+",8.64%,0.99%,0.16%,1.25%,82.33%,0.00%,6.63%
+"P184
 ","Libaran
 ","Zakaria Edris  (BN-UMNO)
 ","17,799
@@ -2272,8 +1184,8 @@
 ","11,586
 ","Alfian Mansyur  (USA-PHRS)
 ","1,223
-",,,,,,
-0,"P185
+",,,,,,,27.17%,17.17%,0.26%,0.93%,40.70%,0.01%,13.76%
+"P185
 ","Batu Sapi
 ","Liew Vui Keong  (WARISAN)
 ","12,976
@@ -2286,8 +1198,8 @@
 ","980
 ","Norsah Bongsu  (GS-PAS)
 ","948
-",,,,
-0,"P186
+",,,,,17.48%,30.86%,0.31%,0.87%,40.83%,0.03%,9.62%
+"P186
 ","Sandakan
 ","Wong Tien Fatt  (PH-DAP)
 ","19,094
@@ -2296,8 +1208,8 @@
 ","8,996
 ","Wong Tien Fatt  (PH-DAP)
 ","1,088
-",,,,,,,,
-0,"P187
+",,,,,,,,,13.91%,50.71%,0.62%,0.63%,27.34%,0.01%,6.79%
+"P187
 ","Kinabatangan
 ","Bung Moktar Radin  (BN-UMNO)
 ","14,465
@@ -2308,8 +1220,8 @@
 ","9,731
 ","Mustapa Datu Tambuyong  (USA-PHRS)
 ","2,066
-",,,,,,
-0,"P188
+",,,,,,,15.87%,0.73%,0.12%,0.97%,76.72%,0.01%,5.58%
+"P188
 ","Silam
 ","Mohammadin Ketapi  (WARISAN)
 ","23,352
@@ -2322,8 +1234,8 @@
 ","1,432
 ","Siti Shazianti Ajak  (USA-PHRS)
 ","1,306
-",,,,
-0,"P189
+",,,,,25.71%,11.05%,0.44%,1.11%,50.52%,0.01%,11.16%
+"P189
 ","Semporna
 ","Shafie Apdal  (WARISAN)
 ","26,809
@@ -2336,8 +1248,22 @@
 ","384
 ","Asmara Asmad  (USA-PHRS)
 ","98
-",,,,
-0,"P190
+",,,,,9.55%,1.76%,0.11%,0.37%,85.62%,0.02%,2.58%
+"P019
+","Tumpat
+","Che Abdullah Mat Nawi  (GS-PAS)
+","47,041
+","17,500
+","Wan Johani Wan Hussin  (BN-UMNO)
+","29,541
+","Kamaruddin Jaafar  (PH-PKR)
+","10,704
+","Nordin Salleh
+(PH-PPBM)
+
+","10,003
+",,,,,,,92.93%,3.12%,0.15%,0.04%,0.02%,0.00%,3.73%
+"P190
 ","Tawau
 ","Christina Liew Chin Jin  (PH-PKR)
 ","21,400
@@ -2350,8 +1276,8 @@
 ","2,518
 ","Alizaman Jijurahman  (USA-PHRS)
 ","2,162
-",,,,
-0,"P191
+",,,,,34.80%,34.61%,0.29%,0.98%,18.05%,0.01%,11.26%
+"P191
 ","Kalabakan
 ","Ma'mun Sulaiman  (WARISAN)
 ","18,486
@@ -2364,8 +1290,8 @@
 ","2,813
 ","Ahmad Lahama  (USA-PPRS)
 ","311
-",,,,
-0,"P192
+",,,,,47.97%,8.97%,0.35%,1.97%,20.05%,0.02%,20.67%
+"P192
 ","Mas Gading
 ","Mordi Bimol  (PH-DAP)
 ","12,771
@@ -2374,8 +1300,8 @@
 ","9,747
 ","Anthony Nogeh Anak Gumbek  (BN-PDP)
 ","2,156
-",,,,,,,,
-0,"P193
+",,,,,,,,,5.16%,17.76%,0.15%,76.46%,0.24%,0.02%,0.21%
+"P193
 ","Santubong
 ","Wan Junaidi Tuanku Jaafar  (BN-PBB)
 ","26,379
@@ -2384,8 +1310,8 @@
 ","6,894
 ","Wan Junaidi Tuanku Jaafar  (BN-PBB)
 ","20,936
-",,,,,,,,
-0,"P194
+",,,,,,,,,80.27%,7.73%,0.03%,11.76%,0.10%,0.01%,0.10%
+"P194
 ","Petra Jaya
 ","Fadillah Yusof  (BN-PBB)
 ","28,306
@@ -2396,8 +1322,8 @@
 ","21,443
 ","Hamdan Sani  (GS-PAS)
 ","1,350
-",,,,,,
-0,"P195
+",,,,,,,73.24%,13.27%,0.55%,12.42%,0.22%,0.01%,0.29%
+"P195
 ","Bandar Kuching
 ","Kelvin Yii Lee Wuen  (PH-DAP)
 ","48,548
@@ -2406,8 +1332,8 @@
 ","12,575
 ","Chong Chieng Jen  (PH-DAP)
 ","19,642
-",,,,,,,,
-0,"P196
+",,,,,,,,,4.03%,88.71%,0.67%,6.18%,0.17%,0.00%,0.24%
+"P196
 ","Stampin
 ","Chong Chieng Jen  (PH-DAP)
 ","33,060
@@ -2416,8 +1342,8 @@
 ","18,839
 ","Julian Tan Kok Ping  (PH-DAP)
 ","18,670
-",,,,,,,,
-0,"P197
+",,,,,,,,,16.15%,64.21%,0.69%,18.47%,0.23%,0.02%,0.23%
+"P197
 ","Kota Samarahan
 ","Rubiah Wang (BN-PBB)
 ","25,070
@@ -2428,8 +1354,8 @@
 ","17,401
 ","Zulkipli Ramzi  (GS-PAS)
 ","2,719
-",,,,,,
-0,"P198
+",,,,,,,61.79%,11.30%,0.24%,25.76%,0.58%,0.06%,0.25%
+"P198
 ","Puncak Borneo (previously known as Mambong)
 ","Willie Mongin  (PH-PKR)
 ","18,865
@@ -2440,8 +1366,8 @@
 ","9,721
 ","Buln Ribos  (STAR)
 ","795
-",,,,,,
-0,"P199
+",,,,,,,4.78%,25.96%,0.19%,68.43%,0.25%,0.12%,0.26%
+"P199
 ","Serian
 ","Richard Riot Jaem  (BN-SUPP)
 ","17,545
@@ -2452,8 +1378,32 @@
 ","13,151
 ","Senior William Rade  (IND)
 ","2,234
-",,,,,,
-0,"P200
+",,,,,,,7.56%,10.03%,0.12%,81.35%,0.19%,0.57%,0.17%
+"P002
+","Kangar
+","Noor Amin Ahmad  (PH-PKR)
+","20,909
+","5,603
+","Ramli Shariff  (BN-UMNO)
+","15,306
+","Shaharuddin Ismail  (BN-UMNO)
+","4,037
+","Mohamad Zahid Ibrahim  (GS-PAS)
+","8,465
+",,,,,,,82.14%,14.87%,1.61%,0.09%,0.07%,0.00%,1.21%
+"P020
+","Pengkalan Chepa
+","Ahmad Marzuki Shaary (GS-PAS)
+","32,592
+","13,232
+","Zaluzi Sulaiman (BN-UMNO)
+"," 19,360
+","Izani Husin  (GS-PAS)
+","15,120
+","Mohamad Ibrahim (PH-AMANAH)
+","7,435
+",,,,,,,97.93%,1.49%,0.11%,0.11%,0.08%,0.01%,0.27%
+"P200
 ","Batang Sadong
 ","Nancy Shukri  (BN-PBB)
 ","14,208
@@ -2464,8 +1414,8 @@
 ","11,260
 ","Asan Singkro  (GS-PAS)
 ","978
-",,,,,,
-0,"P201
+",,,,,,,70.11%,5.11%,0.04%,24.33%,0.13%,0.05%,0.23%
+"P201
 ","Batang Lupar
 ","Rohani Abdul Karim  (BN-PBB)
 ","14,204
@@ -2476,8 +1426,8 @@
 ","10,964
 ","Narudin Mentali  (PH-AMANAH)
 ","2,020
-",,,,,,
-0,"P202
+",,,,,,,67.08%,2.86%,0.02%,29.85%,0.09%,0.02%,0.07%
+"P202
 ","Sri Aman
 ","Masir Kujat  (BN-PRS)
 ","14,141
@@ -2488,8 +1438,8 @@
 ","6,550
 ","Cobbold John Lusoi  (PBDS BARU)
 ","538
-",,,,,,
-0,"P203
+",,,,,,,10.32%,16.59%,0.04%,72.58%,0.19%,0.11%,0.19%
+"P203
 ","Lubok Antu
 ","Jugah Muyang  (IND)
 ","5,834
@@ -2500,8 +1450,8 @@
 ","4,091
 ","Nicholas Bawin Anggat  (PH-PKR)
 ","3,942
-",,,,,,
-0,"P204
+",,,,,,,1.50%,7.79%,0.02%,90.32%,0.21%,0.01%,0.15%
+"P204
 ","Betong
 ","Robert Lawson Chuat  (BN-PBB)
 ","12,517
@@ -2512,8 +1462,8 @@
 ","10,887
 ","Noel Changgai Bucking  (PH-PKR)
 ","3,802
-",,,,,,
-0,"P205
+",,,,,,,38.00%,6.57%,0.06%,55.08%,0.13%,0.02%,0.13%
+"P205
 ","Saratok
 ","Ali Biju  (PH-PKR)
 ","11,848
@@ -2522,8 +1472,8 @@
 ","10,859
 ","William Ikom Mawan(TERAS)
 ","2,081
-",,,,,,,,
-0,"P206
+",,,,,,,,,36.00%,6.41%,0.03%,57.34%,0.09%,0.01%,0.11%
+"P206
 ","Tanjong Manis
 ","Yusuf Abd. Wahab  (BN-PBB)
 ","11,402
@@ -2532,8 +1482,8 @@
 ","2,728
 ","Norah Abdul Rahma  (BN-PBB)
 ","10,964
-",,,,,,,,
-0,"P207
+",,,,,,,,,25.61%,4.83%,0.03%,68.85%,0.21%,0.02%,0.46%
+"P207
 ","Igan
 ","Ahmad Johnie Zawasi  (BN-PBB)
 ","10,538
@@ -2542,8 +1492,8 @@
 ","2,043
 ","Wahab Dolah  (BN-PBB)
 ","10,149
-",,,,,,,,
-0,"P208
+",,,,,,,,,6.84%,3.69%,0.03%,88.93%,0.31%,0.01%,0.19%
+"P208
 ","Sarikei
 ","Wong Ling Biu  (PH-DAP)
 ","16,327
@@ -2554,8 +1504,8 @@
 ","505
 ","Wong Chin King  (PBK)
 ","392
-",,,,,,
-0,"P209
+",,,,,,,4.56%,62.78%,0.03%,32.29%,0.16%,0.01%,0.17%
+"P209
 ","Julau
 ","Larry Sng Wei Shien (IND)
 ","10,105
@@ -2564,8 +1514,20 @@
 ","8,174
 ","Joseph Salang Gandum  (BN-PRS)
 ","5,955
-",,,,,,,,
-0,"P210
+",,,,,,,,,0.63%,4.53%,0.03%,94.58%,0.11%,0.01%,0.12%
+"P021
+","Kota Bharu
+","Takiyuddin Hassan (GS-PAS)
+","28,291
+","5,869
+","Husam Musa (PH-AMANAH)
+","22,422
+","Takiyuddin Hassan  (GS-PAS)
+","15,970
+","Fikhran Hamshi Mohd Fatmi (BN-UMNO)
+","16,256
+",,,,,,,84.45%,14.21%,0.78%,0.05%,0.04%,0.00%,0.47%
+"P210
 ","Kanowit
 ","Aaron Ago Dagang  (BN-PRS)
 ","9,552
@@ -2574,8 +1536,8 @@
 ","5,240
 ","Aaron Ago Dagang  (BN-PRS)
 ","3,042
-",,,,,,,,
-0,"P211
+",,,,,,,,,1.56%,11.77%,0.02%,86.39%,0.10%,0.03%,0.12%
+"P211
 ","Lanang
 ","Alice Lau Kiong Yieng  (PH-DAP)
 ","29,905
@@ -2586,8 +1548,8 @@
 ","8,630
 ","Priscilla Lau  (PEACE)
 ","628
-",,,,,,
-0,"P212
+",,,,,,,3.44%,68.68%,0.05%,27.44%,0.25%,0.02%,0.11%
+"P212
 ","Sibu
 ","Oscar Ling Chai Yew  (PH-DAP)
 ","33,811
@@ -2600,8 +1562,8 @@
 ","377
 ","Tiong Ing Tung  (STAR)
 ","176
-",,,,
-0,"P213
+",,,,,11.12%,62.74%,0.10%,25.49%,0.35%,0.04%,0.16%
+"P213
 ","Mukah
 ","Hanifah Hajar Taib  (BN-PBB)
 ","13,853
@@ -2610,8 +1572,8 @@
 ","6,853
 ","Leo Michael Toyad  (BN-PBB)
 ","12,764
-",,,,,,,,
-0,"P214
+",,,,,,,,,3.23%,9.15%,0.04%,86.94%,0.36%,0.01%,0.25%
+"P214
 ","Selangau
 ","Baru Bian  (PH-PKR)
 ","11,228
@@ -2620,8 +1582,8 @@
 ","10,742
 ","Joseph Entulu Belaun (IND)
 ","7,555
-",,,,,,,,
-0,"P215
+",,,,,,,,,1.11%,3.30%,0.01%,95.07%,0.12%,0.01%,0.38%
+"P215
 ","Kapit
 ","Alexander Nanta Linggi  (BN-PBB)
 ","14,302
@@ -2630,8 +1592,8 @@
 ","3,823
 ","Alexander Nanta Linggi  (BN-PBB)
 ","9,731
-",,,,,,,,
-0,"P216
+",,,,,,,,,2.71%,9.51%,0.07%,87.34%,0.21%,0.02%,0.14%
+"P216
 ","Hulu Rajang
 ","Wilson Ugak Anak Kumbong  (BN-PRS)
 ","11,834
@@ -2640,8 +1602,8 @@
 ","5,519
 ","Wilson Ugak Anak Kumbong  (BN-PRS)
 ","5,834
-",,,,,,,,
-0,"P217
+",,,,,,,,,0.96%,1.56%,0.03%,96.74%,0.25%,0.23%,0.24%
+"P217
 ","Bintulu
 ","Tiong King Sing  (BN-PDP)
 ","27,076
@@ -2652,8 +1614,8 @@
 ","7,433
 ","Chieng Lea Phing  (STAR)
 ","328
-",,,,,,
-0,"P218
+",,,,,,,10.57%,28.75%,0.09%,60.03%,0.37%,0.01%,0.18%
+"P218
 ","Sibuti
 ","Lukanisman Awang  (BN-PBB)
 ","12,214
@@ -2664,8 +1626,8 @@
 ","6,066
 ","Zulaihi Bakar  (GS-PAS)
 ","1,617
-",,,,,,
-0,"P219
+",,,,,,,23.85%,21.54%,0.11%,53.70%,0.39%,0.01%,0.40%
+"P219
 ","Miri
 ","Micheal Teo Yu Keng  (PH-PKR)
 ","35,739
@@ -2674,8 +1636,22 @@
 ","22,076
 ","Micheal Teo Yu Keng  (PH-PKR)
 ","1,992
-",,,,,,,,
-0,"P220
+",,,,,,,,,15.28%,55.32%,0.29%,28.35%,0.44%,0.01%,0.31%
+"P022
+","Pasir Mas
+","Ahmad Fadhli Shaari (GS-PAS)
+","28,080
+","13,075
+","Nor Asmawi Ab Rahman (BN-UMNO)
+","15,005
+","Nik Mohamad Abduh Nik Abdul Aziz  (GS-PAS)
+","8,047
+","Ibrahim Ali (IND)
+","5,373
+","Che Ujang Bin Che Daud (PH-PKR)
+","5,093
+",,,,,97.58%,1.99%,0.06%,0.04%,0.03%,0.00%,0.30%
+"P220
 ","Baram
 ","Anyi Ngau  (BN-PDP)
 ","12,171
@@ -2684,8 +1660,8 @@
 ","10,181
 ","Anyi Ngau  (BN-PDP)
 ","194
-",,,,,,,,
-0,"P221
+",,,,,,,,,4.79%,7.86%,0.04%,86.57%,0.25%,0.24%,0.24%
+"P221
 ","Limbang
 ","Hasbi Habibollah  (BN-PBB)
 ","12,589
@@ -2694,8 +1670,8 @@
 ","4,879
 ","Hasbi Habibollah  (BN-PBB)
 ","8,301
-",,,,,,,,
-0,"P222
+",,,,,,,,,28.18%,17.98%,0.08%,45.82%,7.62%,0.05%,0.28%
+"P222
 ","Lawas
 ","Henry Sum Agong  (BN-PBB)
 ","10,037
@@ -2706,4 +1682,1028 @@
 ","6,030
 ","Mohammad Brahim  (IND)
 ","176
-",,,,,,
+",,,,,,,40.08%,9.25%,0.09%,48.42%,1.73%,0.02%,0.40%
+"P023
+","Rantau Panjang
+","Siti Zailah Mohd Yusoff (GS-PAS)
+","24,581
+","6,150
+","Abdullah Mat Yasim (BN-UMNO)
+","18,431
+","Siti Zailah Mohd Yusoff  (GS-PAS)
+","6,362
+","Wan Shah Jihan Wan Din (PH-AMANAH)
+","5,361
+",,,,,,,96.99%,2.06%,0.07%,0.04%,0.02%,0.00%,0.82%
+"P024
+","Kubang Kerian
+","Tuan Ibrahim Tuan Man (GS-PAS)
+","35,620
+","19,369
+","Muhamad Abdul Ghani (BN-UMNO)
+","16,251
+","Ahmad Baihaki Atiqullah (GS-PAS)
+","16,741
+","Abdul Halim Yusof (PH-AMANAH)
+","11,557
+",,,,,,,97.98%,1.68%,0.14%,0.04%,0.03%,0.00%,0.12%
+"P025
+","Bachok
+","Nik Mohamad Abduh Nik Abdul Aziz (GS-PAS)
+","36,188
+","3,292
+","Awang Adek Hussin (BN-UMNO)
+","32,896
+","Ahmad Marzuk Shaary (GS-PAS)
+","201
+","Zulkifli Zakaria (PH-PPBM)
+","4,880
+",,,,,,,98.46%,1.08%,0.04%,0.03%,0.02%,0.00%,0.38%
+"P026
+","Ketereh
+","Annuar Musa (BN-UMNO)
+","25,467
+","4,626
+","Wan Ismail Wan Jusoh (GS-PAS)
+","20,841
+","Annuar Musa (BN-UMNO)
+","974
+","Mohd. Radzi Mohd. Jidin (PH-PPBM)
+","6,799
+",,,,,,,96.67%,1.88%,0.08%,0.59%,0.26%,0.06%,0.47%
+"P027
+","Tanah Merah
+","Ikmal Hisham Abdul Aziz (BN-UMNO)
+","28,152
+","2,929
+","Johari Mat (GS-PAS)
+","25,223
+","Ikmal Hisham Abdul Aziz (BN-UMNO)
+","4,227
+","Mohamad Fauzi Zakaria (PH-PKR)
+","4,747
+",,,,,,,94.69%,3.94%,0.59%,0.06%,4.00%,0.00%,0.67%
+"P028
+","Pasir Putih
+","Nik Muhd Zawawi Salleh (GS-PAS)
+","32,307
+","1,360
+","Asyraf Wajdi Dusuki (BN-UMNO)
+","30,947
+","Nik Mazian Nik Mohamad (GS-PAS)
+","1,888
+","Kamarudin Mohd. Noor (PH-PPBM)
+","4,896
+",,,,,,,98.16%,0.96%,0.05%,0.04%,0.03%,0.00%,0.76%
+"P029
+","Machang
+","Ahmad Jazlan Yaakub (BN-UMNO)
+","26,076
+","2,824
+","Zulkifli Mamat (GS-PAS)
+","23,252
+","Ahmad Jazlan Yaakub (BN-UMNO)
+","805
+","Sazmi Miah (PH-PPBM)
+","5,695
+",,,,,,,96.44%,3.14%,0.18%,0.05%,0.04%,0.00%,0.14%
+"P003
+","Arau
+","Shahidan Kassim  (BN-UMNO)
+","16,547
+"," 4,856
+","Abd Rahman Daud  (PH-PPBM)
+","11,691
+","Shahidan Kassim  (BN-UMNO)
+","1,371
+","Hashim Hj Jasin  (GS-PAS)
+","11,362
+",,,,,,,87.16%,8.10%,1.72%,0.07%,0.09%,0.01%,2.86%
+"P030
+","Jeli
+","Mustapa Mohamed (BN-UMNO)
+","21,665
+","6,647
+","Mohamad Hamid (GS-PAS)
+","15,018
+","Mustapa Mohamed  (BN-UMNO)
+","5,336
+","Azran Deraman (PH-PPBM)
+","2,078
+",,,,,,,98.24%,0.20%,0.11%,0.34%,0.28%,0.56%,0.27%
+"P031
+","Kuala Kerai
+","Abd Latiff Abd Rahman (GS-PAS)
+","28,903
+","7,992
+","Ramzi Ab Rahman (BN-UMNO)
+","20,911
+","Mohd Hatta Ramli  (PH-AMANAH)
+","2,043
+","Mohd. Yazid Abdullah (PH-AMANAH)
+","5,173
+",,,,,,,94.54%,3.97%,1.17%,0.04%,0.04%,0.01%,0.23%
+"P032
+","Gua Musang
+","Tengku Razaleigh Hamzah (BN-UMNO)
+","19,426
+","3,913
+","Abdullah Hussein (GS-PAS)
+","15,513
+","Tengku Razaleigh Hamzah  (BN-UMNO)
+","8,413
+","Mohd. Nor Hussin (PH-PPBM)
+","4,997
+",,,,,,,82.42%,5.59%,0.51%,0.05%,0.06%,11.10%,0.27%
+"P033
+","Besut
+","Idris Jusoh  (BN-UMNO)
+","34,335
+","4,599
+","Wan Nazari Wan Jusoh  (PH-PPBM)
+","29,736
+","Idris Jusoh  (BN-UMNO)
+","8,342
+","Riduan Mohamad Nor  (GS-PAS)
+","6,864
+",,,,,,,98.10%,1.41%,0.09%,0.07%,0.06%,0.01%,0.27%
+"P034
+","Setiu
+","Shaharizukarnain Abdul Kadir  (GS-PAS)
+","35,020
+","2,802
+","Mohd Jidin Shafee  (BN-UMNO)
+","32,218
+","Mohd Zulkifly Jusoh  (BN-UMNO)
+","7,943
+","Mohd Faudzi Musa  (PH-PPBM)
+","4,740
+",,,,,,,99.41%,0.33%,0.03%,0.03%,0.05%,0.00%,0.14%
+"P035
+","Kuala Nerus
+","Mohd. Khairuddin Aman Razali  (GS-PAS)
+","37,974
+","8,447
+","Tengku Asmadi Tengku Mohamad  (BN-UMNO)
+","29,527
+","Khairudin Aman Razali  (GS-PAS)
+","610
+","Abdullah Muhamad  (PH-AMANAH)
+","4,604
+",,,,,,,98.70%,0.95%,0.08%,0.06%,0.06%,0.00%,0.15%
+"P036
+","Kuala Terengganu
+","Ahmad Amzad Mohamed Hashim  (GS-PAS)
+","42,988
+","14,773
+","Wan Nawawi Wan Ismail  (BN-UMNO)
+","28,215
+","Raja Kamarul Bahrin Shah Raja Ahmad (PH-AMANAH)
+","10,785
+","Raja Kamarul Bahrin Shah Raja Ahmad  (PH-AMANAH)
+","15,380
+",,,,,,,90.00%,9.21%,0.52%,0.05%,0.05%,0.00%,0.17%
+"P037
+","Marang
+","Abdul Hadi Awang  (GS-PAS)
+","53,749
+","21,954
+","Mohamad Noor Endut  (BN-UMNO)
+","31,795
+","Abdul Hadi Awang (GS-PAS)
+","5,124
+","Zarawi Sulong  (PH-AMANAH)
+","5,138
+",,,,,,,97.69%,2.01%,0.08%,0.05%,0.04%,0.00%,0.13%
+"P038
+","Hulu Terengganu
+","Rosol Wahid  (BN-UMNO)
+","30,925
+","2,868
+","Muhyidin Abdul Rashid  (GS-PAS)
+","28,057
+","Jailani Johari  (BN-UMNO)
+","8,213
+","Razali Idris  (PH-PPBM)
+","3,364
+",,,,,,,99.08%,0.47%,0.04%,0.04%,0.04%,0.21%,0.12%
+"P039
+","Dungun
+","Wan Hassan Mohd. Ramli (GS-PAS)
+","40,850
+","13,119
+","Din Adam  (BN-UMNO)
+","27,731
+","Wan Hassan Ramli  (GS-PAS)
+","3,942
+","Abdul Rahman Bin Yusof  (PH-PKR)
+","6,833
+",,,,,,,96.01%,3.41%,0.18%,0.06%,0.07%,0.00%,0.27%
+"P004
+","Langkawi
+","Mahathir Mohamad (PH-PPBM)
+","18,954
+","8,893
+","Nawawi Ahmad  (BN-UMNO)
+","10,061
+","Nawawi Ahmad  (BN-UMNO)
+","11,861
+","Zubir Ahmad  (GS-PAS)
+","5,512
+",,,,,,,90.37%,6.50%,2.40%,0.17%,0.19%,0.00%,0.36%
+"P040
+","Kemaman
+","Che Alias Hamid  (GS-PAS)
+","39,878
+","2,163
+","Ahmad Shabery Cheek  (BN-UMNO)
+","37,715
+","Ahmad Shabery Cheek (BN-UMNO)
+","12,306
+","Mohd Huzaifah Bin Mohd Suhaimi  (PH-PKR)
+","12,911
+",,,,,,,93.41%,5.38%,0.62%,0.09%,0.06%,0.19%,0.24%
+"P041
+","Kepala Batas
+","Reezal Merican Naina Merican  (BN-UMNO)
+","22,459
+","4,736
+","Zaidi Zakaria  (PH-AMANAH)
+","17,723
+","Reezal Merican Naina Merican  (BN-UMNO)
+","4,176
+","Siti Mastura Muhamad  (GS-PAS)
+","12,120
+",,,,,,,78.57%,17.01%,4.17%,0.06%,0.06%,0.00%,0.13%
+"P042
+","Tasek Gelugor
+","Shabudin Yahaya  (BN-UMNO)
+","18,547
+","81
+","Marzuki Yahya  (PH-PPBM)
+","18,466
+","Shabudin Yahaya  (BN-UMNO)
+","3,042
+","Rizal Hafiz Ruslan  (GS-PAS)
+","14,891
+",,,,,,,78.23%,14.70%,6.59%,0.15%,0.12%,0.00%,0.21%
+"P043
+","Bagan
+","Lim Guan Eng  (PH-DAP)
+","51,653
+","43,902
+","Lee Beng Seng  (BN-MCA)
+","7,751
+","Lim Guan Eng  (PH-DAP)
+","34,159
+","Huan Cheng Guan  (GS-PCM)
+","502
+","Koay Xing Boon  (MUP)
+","181
+",,,,,13.36%,71.26%,15.03%,0.03%,0.05%,0.00%,0.28%
+"P044
+","Permatang Pauh
+","Nurul Izzah Anwar  (PH-PKR)
+","35,534
+","15,668
+","Mohd. Zaidi Mohd. Said  (BN-UMNO)
+","19,866
+","Wan Azizah Wan Ismail  (PH-PKR)
+","8,841
+","Afnan Hamimi Taib Azamudden  (GS-PAS)
+","14,428
+",,,,,,,71.93%,21.42%,6.16%,0.06%,0.07%,0.00%,0.36%
+"P045
+","Bukit Mertajam
+","Sim Chee Keong (PH-DAP)
+","63,784
+","52,877
+","Gui Guat Lye  (BN-MCA)
+","10,907
+","Sim Chee Keong (PH-DAP)
+","19,307
+",,,,,,,,,19.34%,70.36%,9.95%,0.03%,0.06%,0.00%,0.26%
+"P046
+","Batu Kawan
+","Kasthuriraani Patto (PH-DAP)
+","42,683
+","33,553
+","Jayanthi Devi Balaguru  (BN-GERAKAN)
+","9,130
+","Kasthuriraani Patto (PH-DAP)
+","26,962
+","Jay Kumar Balakrishnan  (GS-PAS)
+","2,636
+","Ooi Khar Giap  (PFP)
+","256
+",,,,,20.93%,55.86%,22.77%,0.05%,0.08%,0.00%,0.30%
+"P047
+","Nibong Tebal
+","Mansor Othman  (PH-PKR)
+","35,395
+","15,817
+","Shaik Hussien Mydin  (BN-UMNO)
+","19,578
+","Mansor Othman(PH-PKR)
+","8,598
+","Mohd Helmi Harun  (GS-PAS)
+","6,875
+","Tan Tee Beng  (IND)
+","331
+",,,,,47.70%,35.03%,16.96%,0.04%,0.07%,0.01%,0.20%
+"P048
+","Bukit Bendera
+","Wong Hon Wai  (PH-DAP)
+","50,049
+","40,731
+","Andy Yong Kim Seng  (BN-GERAKAN)
+","9,318
+","Zairil Khir Johari (PH-DAP)
+","32,778
+","Tan Gim Theam  (MUP)
+","339
+",,,,,,,14.65%,72.82%,11.29%,0.09%,0.09%,0.00%,1.05%
+"P049
+","Tanjong
+","Chow Kon Yeow  (PH-DAP)
+","34,663
+","29,599
+","Ng Siew Lai  (BN-GERAKAN)
+","5,064
+","Ng Wei Aik (PH-DAP)
+","28,645
+",,,,,,,,,5.89%,84.18%,9.53%,0.03%,0.04%,0.00%,0.31%
+"P005
+","Jerlun
+","Mukhriz Mahathir (PH-PPBM)
+","18,695
+","5,866
+","Abdul Ghani Ahmad  (GS-PAS)
+","12,829
+","Othman Aziz  (BN-UMNO)
+","3,279
+","Othman Aziz  (BN-UMNO)
+","12,413
+",,,,,,,91.23%,6.89%,0.10%,0.02%,0.03%,0.00%,1.73%
+"P050
+","Jelutong
+","Sanisvara Nethaji Rayer Rajaji  (PH-DAP)
+","50,700
+","38,171
+","Baljit Singh Jigiri Singh  (BN-GERAKAN)
+","12,529
+","Ooi Chuan Aun (PH-DAP)
+","25,750
+","Tan Sim Bee  (MUP)
+","437
+",,,,,,,22.60%,65.22%,11.68%,0.04%,0.06%,0.00%,0.39%
+"P051
+","Bukit Gelugor
+","Ramkarpal Singh Deo (PH-DAP)
+","65,622
+","55,951
+","Low Joo Hiap  (BN-MCA)
+","9,671
+","Ramkarpal Singh Deo (PH-DAP)
+","37,659
+","Lai Xue Ching  (MUP)
+","412
+",,,,,,,14.32%,73.86%,11.28%,0.04%,0.05%,0.00%,0.45%
+"P052
+","Bayan Baru
+","Sim Tze Tzin  (PH-PKR)
+","51,555
+","37,751
+","Chuah Seng Guan  (BN-MCA)
+","13,804
+","Sim Tze Tzin (PH-PKR)
+","19,307
+","Iszuree Ibrahim  (GS-PAS)
+","8,757
+","Yim Boon Leong  (MUP)
+","733
+",,,,,39.61%,48.49%,11.03%,0.18%,0.19%,0.00%,0.49%
+"P053
+","Balik Pulau
+","Muhammad Bakhtiar Wan Chik  (PH-PKR)
+","25,471
+","6,464
+","Hilmi Yahaya (BN-UMNO)
+","19,007
+","Hilmi Yahaya (BN-UMNO)
+","1,539
+","Muhammad Imran Muhammad Saad  (GS-PAS)
+","5,298
+",,,,,,,64.91%,30.16%,4.42%,0.10%,0.14%,0.00%,0.27%
+"P054
+","Gerik
+","Hasbullah Osman  (BN-UMNO)
+","13,243
+","5,528
+","Mohd Dahalan Ismail  (PAS)
+","7,715
+","Hasbullah Osman  (BN-UMNO)
+","6,216
+","Ibrahim Mohd Hanafiah (PH-PPBM)
+","6,353
+",,,,,,,69.09%,14.07%,3.29%,0.84%,0.55%,9.07%,3.09%
+"P055
+","Lenggong
+","Shamsul Anuar Nasarah  (BN-UMNO)
+","12,523
+","5,773
+","Muhammad Mujahid Mohammad Fadzil (PAS)
+","6,750
+","Shamsul Anuar Nasarah  (BN-UMNO)
+","4,161
+","Amirul Fairuzzeen Jamaluddin (PH-BERSATU)
+","3,932
+",,,,,,,83.43%,12.73%,1.43%,0.05%,0.07%,2.13%,0.16%
+"P056
+","Larut
+","Hamzah Zainuddin  (BN-UMNO)
+","18,184
+","4,486
+","Abu Husin Mohamad (PAS)
+","13,698
+","Hamzah Zainuddin  (BN-UMNO)
+","5,296
+","Khairil Anuar Akhiruddin (PH-BERSATU)
+","7,738
+",,,,,,,89.70%,4.34%,5.64%,0.04%,0.05%,0.00%,0.23%
+"P057
+","Parit Buntar
+","Mujahid Yusof Rawa  (PH-AMANAH)
+","16,753
+","3,098
+","Abdul Puhat Mat Nayan (BN-UMNO)
+","13,655
+","Mujahid Yusof Rawa  (PH-AMANAH)
+","8,476
+","Ahmad Azhar Sharin (PAS)
+","12,312
+",,,,,,,69.47%,25.63%,4.71%,0.02%,0.05%,0.00%,0.12%
+"P058
+","Bagan Serai
+","Noor Azmi Ghazali (IND)
+","17,220
+","172
+","Rohaya Bakar (PAS)
+","17,048
+","Noor Azmi Ghazali (BN-UMNO)
+","1,140
+","Adam Asmuni (PH-BERSATU)
+","12,987
+",,,,,,,77.92%,12.73%,9.14%,0.04%,0.04%,0.00%,0.14%
+"P059
+","Bukit Gantang
+","Syed Abu Hussin Hafiz Syed Abdul Fasal (IND)
+","22,450
+","4,089
+","Khadri Khalid (PH-BERSATU)
+","18,361
+","Idris Ahmad  (PAS)
+","986
+","Idris Ahmad  (PAS)
+","16,052
+",,,,,,,72.38%,18.91%,8.42%,0.05%,0.04%,0.01%,0.20%
+"P006
+","Kubang Pasu
+","Amiruddin Hamzah (PH-PPBM)
+","29,984
+","13,009
+","Mohd Johari Baharum  (BN-UMNO)
+","16,975
+","Mohd Johari Baharum  (BN-UMNO)
+","10,444
+","Norhafiza Fadzil  (GS-PAS)
+","13,375
+",,,,,,,86.47%,8.54%,3.47%,0.18%,0.17%,0.01%,1.17%
+"P060
+","Taiping
+","Teh Kok Lim (PH-DAP)
+","42,997
+","27,384
+","Tan Keng Liang (BN-GERAKAN)
+","15,613
+","Nga Kor Ming (PH-DAP)
+","11,745
+","Ibrahim Ismail  (BERJASA)
+","11,133
+",,,,,,,38.80%,46.41%,13.46%,0.62%,0.23%,0.03%,0.44%
+"P061
+","Padang Rengas
+","Mohamed Nazri Abdul Aziz  (BN-UMNO)
+","10,491
+","2,548
+","Ejazi Yahaya  (PH-PKR)
+","7,943
+","Mohamed Nazri Abdul Aziz  (BN-UMNO)
+","2,230
+","Mohd. Azalan Mohamad Radzi  (PAS)
+","6,847
+",,,,,,,77.73%,15.43%,6.65%,0.04%,0.02%,0.00%,0.13%
+"P062
+","Sungai Siput
+","Kesavan Subramaniam  (PH-PKR)
+","20,817
+","5,607
+","Devamany S. Krishnasamy  (BN-MIC)
+","15,210
+","Michael Jeyakumar Devaraj (PSM)
+","2,793
+","Ishak Ibrahim  (PAS)
+","5,194
+","Michael Jeyakumar Devaraj (PSM)
+","1,505
+",,,,,34.26%,36.29%,20.90%,0.04%,0.05%,8.29%,0.16%
+"P063
+","Tambun
+","Ahmad Faizal Azumu (PH-BERSATU)
+","38,661
+","5,320
+","Ahmad Husni Hanadzlah  (BN-UMNO)
+","33,341
+","Ahmad Husni Hanadzlah  (BN-UMNO)
+","9,325
+","Muhamad Zulkifli Mohd Zakaria  (PAS)
+","14,948
+",,,,,,,66.30%,20.23%,11.42%,0.33%,0.17%,1.08%,0.46%
+"P064
+","Ipoh Timor
+","Wong Kah Woh (PH-DAP)
+","56,519
+","42,797
+","Kathleen Wong Mei Yin  (BN-MCA)
+","13,722
+","Thomas Su Keong Siong (PH-DAP)
+","34,000
+",,,,,,,,,20.98%,72.03%,6.40%,0.09%,0.08%,0.02%,0.39%
+"P065
+","Ipoh Barat
+","Kualasegaran Murugeson (PH-DAP)
+","55,613
+","45,724
+","Cheng Wei Yee  (BN-MCA)
+","9,889
+","Kulasegaran Murugeson (PH-DAP)
+","29,038
+",,,,,,,,,11.81%,63.17%,24.42%,0.06%,0.04%,0.03%,0.47%
+"P066
+","Batu Gajah
+","V. Sivakumar (PH-DAP)
+","52,850
+","43,868
+","Leong Chee Wai  (BN-MCA)
+","8,982
+","V. Sivakumar (PH-DAP)
+","38,410
+","Kunasekaran Krishnan (PSM)
+","955
+",,,,,,,9.94%,75.01%,14.61%,0.05%,0.04%,0.05%,0.30%
+"P067
+","Kuala Kangsar
+","Mastura Mohd Yazid  (BN-UMNO)
+","12,102
+","731
+","Ahmad Termizi Ramli  (PH-AMANAH)
+","11,371
+","Mastura Mohd Yazid  (BN-UMNO)
+","6,969
+","Khalil Idham Lim Abdullah  (PAS)
+","6,583
+",,,,,,,70.35%,21.61%,6.62%,0.06%,0.07%,1.04%,0.25%
+"P068
+","Beruas
+","Ngeh Koo Ham (PH-DAP)
+","41,231
+","27,954
+","Pang Chok King  (BN-GERAKAN)
+","13,277
+","Ngeh Koo Ham (PH-DAP)
+","5,057
+","Mohamad Nazeer M. K. M. Hameed  (PAS)
+","5,759
+",,,,,,,26.32%,59.27%,14.05%,0.07%,0.09%,0.01%,0.19%
+"P069
+","Parit
+","Mohd. Nizar Zakaria  (BN-UMNO)
+","14,035
+","6,320
+","Najihatusalehah Ahmad  (PAS)
+","7,715
+","Mohd Zaim Abu Hassan  (BN-UMNO)
+","4,497
+","bgcolor=""Template:Pakatan Harapan)/meta/color| Tarmizi Mohd Jam  (PH-AMANAH)
+","7,240
+",,,,,,,93.01%,2.24%,2.54%,0.08%,0.07%,1.86%,0.21%
+"P007
+","Padang Terap
+","Mahdzir Khalid  (BN-UMNO)
+","16,384
+","1,099
+","Mohd Azam Abd Aziz  (GS-PAS)
+","15,285
+","Mahdzir Khalid  (BN-UMNO)
+","4,442
+","Mohd Khairizal Khazali  (PH-AMANAH)
+","7,254
+",,,,,,,92.14%,1.27%,0.17%,0.03%,0.03%,0.00%,6.35%
+"P070
+","Kampar
+","Thomas Su Keong Siong (PH-DAP)
+","30,216
+","11,801
+","Lee Chee Leong  (BN-MCA)
+","18,415
+","Ko Chung Sen  (PH-DAP)
+","5,400
+","Yougan Mahalingam  (PAS)
+","3,864
+",,,,,,,33.38%,55.38%,9.16%,0.05%,0.05%,1.74%,0.24%
+"P071
+","Gopeng
+","Lee Boon Chye  (PH-PKR)
+","48,923
+","29,778
+","Heng Seai Kei  (BN-MCA)
+","19,415
+","Lee Boon Chye (PH-PKR)
+","15,309
+","Ismail Ariffin  (PAS)
+","11,165
+",,,,,,,42.38%,46.00%,9.13%,0.07%,7.00%,2.09%,0.26%
+"P072
+","Tapah
+","Saravanan Murugan  (BN-MIC)
+","16,086
+","614
+","Mohamed Azni Mohamed Ali (PH-BERSATU)
+","15,472
+","Saravanan Murugan  (BN-MIC)
+","7,927
+","Nor Azli Musa  (PAS)
+","4,616
+",,,,,,,46.25%,25.85%,14.28%,0.10%,0.08%,12.94%,0.50%
+"P073
+","Pasir Salak
+","Tajuddin Abdul Rahman  (BN-UMNO)
+","20,003
+","7,712
+","Salihuddin Radin Sumadi (PH-BERSATU)
+","12,291
+","Tajuddin Abdul Rahman  (BN-UMNO)
+","7,386
+","Zafarul Azhan Zan  (PAS)
+","11,151
+",,,,,,,80.45%,12.83%,3.75%,0.05%,0.04%,2.73%,0.15%
+"P074
+","Lumut
+","Mohd Hatta Ramli  (PH-AMANAH)
+","21,955
+","400
+","Zambry Abd. Kadir  (BN-UMNO)
+","21,555
+","Mohamad Imran Abd. Hamid  (PH-PKR)
+","8,168
+","Mohd. Zamri Ibrahim  (PAS)
+","10,135
+",,,,,,,72.02%,14.98%,11.44%,0.66%,0.56%,0.03%,0.31%
+"P075
+","Bagan Datuk (previously known as Bagan Datok)[3]
+","Ahmad Zahid Hamidi  (BN-UMNO)
+","18,909
+","5,073
+","Pakhrurrazi Haji Arshad  (PH-PKR)
+","13,836
+","Ahmad Zahid Hamidi  (BN-UMNO)
+","2,108
+","Abdul Munim Hasan Adli  (PAS)
+","4,061
+",,,,,,,59.17%,17.76%,21.40%,0.15%,0.35%,0.02%,1.15%
+"P076
+","Teluk Intan (previously known as Telok Intan)[3]
+","Nga Kor Ming (PH-DAP)
+","29,170
+","11,179
+","Mah Siew Keong (BN-GERAKAN)
+","17,991
+","Mah Siew Keong (BN-GERAKAN)
+","238
+","Ahmad Ramadzan Ahmad Daud  (PAS)
+","6,494
+",,,,,,,40.66%,40.08%,18.66%,0.04%,0.02%,0.21%,0.33%
+"P077
+","Tanjong Malim
+","Chang Lih Kang  (PH-PKR)
+","24,672
+","5,358
+","Mah Hang Soon  (BN-MCA)
+","19,314
+","Ong Ka Chuan  (BN-MCA)
+","4,328
+","Mohd. Tarmizi Abd. Rahman  (PAS)
+","10,311
+",,,,,,,55.54%,25.57%,13.03%,0.07%,0.06%,5.30%,0.43%
+"P078
+","Cameron Highlands
+","C Sivarraajh  (BN-MIC)
+","10,307
+","597
+","M Manogaran  (PH-DAP)
+","9,710
+","G. Palanivel (IND)
+","462
+","Wan Mahadir Wan Mahmud  (GS-PAS)
+","3,587
+","Suresh Kumar Balasubramaniam (PSM)
+","680
+","Mohd Tahir Haji Kassim (BERJASA)
+","81
+",,,33.49%,29.49%,14.91%,0.06%,0.12%,21.56%,0.37%
+"P079
+","Lipis
+","Abdul Rahman Mohamad  (BN-UMNO)
+","13,995
+","6,569
+","Ahmad Pozi Yahaya (PH-PPBM)
+","7,426
+","Abdul Rahman Mohamad  (BN-UMNO)
+","3,469
+","Sobirin Duli  (GS-PAS)
+","6,671
+",,,,,,,78.03%,15.63%,5.23%,0.07%,0.05%,0.77%,0.22%
+"P008
+","Pokok Sena
+","Mahfuz Omar  (PH-AMANAH)
+","28,959
+","5,558
+","Radhi Mat Din  (GS-PAS)
+","23,401
+","Mahfuz Omar  (PH-AMANAH)
+","3,935
+","Said Ali Said Rastan  (BN-UMNO)
+","18,390
+",,,,,,,81.45%,15.45%,2.45%,0.12%,0.06%,0.00%,0.46%
+"P080
+","Raub
+","Tengku Zulpuri Shah Raja Puji  (PH-DAP)
+","20,659
+","3,159
+","Chew Mei Fun  (BN-MCA)
+","17,500
+","Ariff Sabri Abdul Aziz  (PH-DAP)
+","2,814
+","Mohamed Nilam Abdul Manap  (GS-PAS)
+","7,866
+",,,,,,,52.06%,38.12%,6.14%,0.06%,0.05%,3.25%,0.32%
+"P081
+","Jerantut
+","Ahmad Nazlan Idris  (BN-UMNO)
+","22,640
+","5,908
+","Yohanis Ahmad  (GS-PAS)
+","16,732
+","Tengku Azlan Sultan Abu Bakar  (BN-UMNO)
+","4,532
+","Wan Mohd Shaharir (PH-PPBM)
+","10,877
+",,,,,,,81.77%,13.01%,2.63%,0.05%,0.06%,2.25%,0.24%
+"P082
+","Indera Mahkota
+","Saifuddin Abdullah  (PH-PKR)
+","28,578
+","10,950
+","Johan Mat Sah  (BN-UMNO)
+","17,628
+","Fauzi Abdul Rahman  (PH-PKR)
+","7,523
+","Nasrudin Hassan  (GS-PAS)
+","17,515
+",,,,,,,66.62%,26.89%,5.69%,0.16%,0.27%,0.04%,0.33%
+"P083
+","Kuantan
+","Fuziah Salleh  (PH-PKR)
+","22,807
+","8,111
+","Sulaiman Mat Derus  (GS-PAS)
+","14,696
+","Fuziah Salleh (PH-PKR)
+","4,515
+","Wong Kiew Lee  (BN-MCA)
+","13,667
+",,,,,,,66.39%,29.58%,3.34%,0.09%,0.11%,0.17%,0.32%
+"P084
+","Paya Besar
+","Mohd Shahar Abdullah  (BN-UMNO)
+","19,033
+","5,742
+","Mohamad Azhar Mohd. Noor  (GS-PAS)
+","13,291
+","Vacant [4]
+","7,715
+","Mohd. Ashraf Mustaqim Badrul Munir (PH-PPBM)
+","11,776
+",,,,,,,83.37%,12.85%,1.94%,0.07%,0.06%,1.40%,0.32%
+"P085
+","Pekan
+","Najib Tun Razak (BN-UMNO)
+","43,854
+","24,859
+","Ahiatudin Daud  (GS-PAS)
+","18,995
+","Najib Tun Razak (BN-UMNO)
+","35,613
+","Kamarul Ariffin Mohd. Shahar (PH-PPBM)
+","7,662
+","Abd Kadir Sainudin (IND)
+","103
+",,,,,87.79%,2.01%,0.81%,0.48%,0.23%,7.87%,0.81%
+"P086
+","Maran
+","Ismail Abd Muttalib (BN-UMNO)
+","16,064
+","3,763
+","Hasenan Haron  (GS-PAS)
+","12,301
+","Ismail Abd Muttalib (BN-UMNO)
+","6,475
+","Ahmad Farid Ahmad Nordin (PH-PPBM)
+","4,360
+",,,,,,,90.16%,6.15%,1.45%,0.05%,0.05%,1.83%,0.31%
+"P087
+","Kuala Krau
+","Ismail Mohamed Said (BN-UMNO)
+","18,058
+","2,876
+","Kamal Ashaari  (GS-PAS)
+","15,182
+","Ismail Mohamed Said (BN-UMNO)
+","6,205
+","Mohamad Rafidee Hashim (PH-PPBM)
+","5,071
+",,,,,,,89.87%,2.77%,2.29%,0.05%,0.04%,4.76%,0.21%
+"P088
+","Temerloh
+","Anuar Tahir  (PH-AMANAH)
+","23,998
+","1,904
+","Mohd Sharkar Shamsudin (BN-UMNO)
+","22,094
+","Nasrudin Hassan (GS-PAS)
+","1,070
+","Md Jusoh Darus  (GS-PAS)
+","14,734
+","Mohd Khaidir Ahmad (IND)
+","178
+","Muhamad Fakhrudin Abu Hanipah (IND)
+","46
+",,,66.48%,22.52%,8.11%,0.61%,0.28%,1.25%,0.75%
+"P089
+","Bentong
+","Wong Tack  (PH-DAP)
+","25,716
+","2,032
+","Liow Tiong Lai (BN-MCA)
+","23,684
+","Liow Tiong Lai (BN-MCA)
+","379
+","N. Balasubramaniam  (GS-PAS)
+","5,706
+",,,,,,,46.48%,41.71%,9.16%,0.17%,0.09%,2.08%,0.31%
+"P009
+","Alor Setar (previously known as Alor Star)[3]
+","Chan Ming Kai  (PH-PKR)
+","32,475
+","15,200
+","Muhd Aminur Shafiq Mohd Abduh  (GS-PAS)
+","17,275
+","Gooi Hsiao Leung  (PH-PKR)
+","1,873
+","Yoo Wei How  (BN-MCA)
+","14,181
+",,,,,,,63.57%,31.73%,4.21%,0.10%,0.05%,0.00%,0.35%
+"P090
+","Bera
+","Ismail Sabri Yaakob (BN-UMNO)
+","20,760
+","2,311
+","Zakaria Abdul Hamid  (PH-PKR)
+","18,449
+","Ismail Sabri Yaakob (BN-UMNO)
+","2,143
+","Musaniff Rahman  (GS-PAS)
+","8,096
+",,,,,,,61.99%,29.06%,3.71%,0.17%,0.20%,4.60%,0.28%
+"P091
+","Rompin
+","Hasan Arifin (BN-UMNO)
+","26,628
+","11,395
+","Mohd. Shahrul Nizam Abdul Haliff  (GS-PAS)
+","15,233
+","Hasan Arifin (BN-UMNO)
+","8,895
+","Sitarunisah Abdul Kadir  (PH-PKR)
+","7,876
+",,,,,,,87.71%,2.31%,1.00%,0.06%,0.08%,8.45%,0.35%
+"P092
+","Sabak Bernam
+","Mohd Fasiah Mohd Fakeh  (BN-UMNO)
+","12,862
+","1,674
+","Warno Dogol (PH-PPBM)
+","11,188
+","Mohd Fasiah Mohd Fakeh  (BN-UMNO)
+","1,890
+","Muhamad Labib Abd Jalil  (GS-PAS)
+","9,300
+",,,,,,,83.04%,11.69%,4.96%,0.07%,0.05%,0.01%,0.20%
+"P093
+","Sungai Besar
+","Muslimin Yahaya (PH-PPBM)
+","17,350
+","714
+","Budiman Mohd Zohdi (BN-UMNO)
+","16,636
+","Budiman Mohd Zohdi (BN-UMNO)
+","9,191
+","Mohd Salleh Mohd Hussin  (GS-PAS)
+","7,220
+",,,,,,,68.72%,28.77%,2.02%,0.05%,0.11%,0.01%,0.33%
+"P094
+","Hulu Selangor
+","Leow Hsiad Hui (PH-PKR)
+","40,783
+","13,391
+","P. Kamalanathan (BN-MIC)
+","27,392
+","P. Kamalanathan (BN-MIC)
+","3,414
+","Wan Mat Wan Sulaiman  (GS-PAS)
+","16,620
+","Kumar SS Paramasivam (IND)
+","426
+",,,,,60.38%,20.81%,16.23%,0.16%,0.17%,1.64%,0.62%
+"P095
+","Tanjong Karang
+","Noh Omar  (BN-UMNO)
+","17,596
+","1,970
+","Zulkaferi Hanafi (PH-PPBM)
+","15,626
+","Noh Omar  (BN-UMNO)
+","4,394
+","Azlan Ahmad  (GS-PAS)
+"," 7,276
+",,,,,,,74.65%,15.97%,8.94%,0.03%,0.05%,0.00%,0.35%
+"P096
+","Kuala Selangor
+","Dzulkefly Ahmad  (PH-AMANAH)
+","29,842
+","8,498
+","Irmohizan Ibrahim  (BN-UMNO)
+","21,344
+","Irmohizan Ibrahim  (BN-UMNO)
+","460
+","Mohd Fakaruddin Ismail  (GS-PAS)
+","8,535
+",,,,,,,65.42%,12.91%,21.10%,0.08%,0.10%,0.01%,0.37%
+"P097
+","Selayang
+","William Leong Jee Keen (PH-PKR)
+","60,158
+","40,657
+","Kang Meng Fuat  (BN-MCA)
+","19,501
+","William Leong Jee Keen (PH-PKR)
+","17,958
+","Hashim Abd Karim  (GS-PAS)
+","18,343
+",,,,,,,51.78%,28.73%,17.71%,0.18%,0.21%,0.22%,1.16%
+"P098
+","Gombak
+","Mohamed Azmin Ali (PH-PKR)
+","75,113
+","48,721
+","Abd Rahim Kamarudin  (BN-UMNO)
+","26,392
+","Mohamed Azmin Ali (PH-PKR)
+","4,734
+","Khairil Nizam Khirudin  (GS-PAS)
+","17,537
+",,,,,,,75.79%,10.67%,10.78%,0.14%,0.15%,0.39%,2.08%
+"P099
+","Ampang
+","Zuraida Kamarudin (PH-PKR)
+","54,307
+","41,956
+","Leong Kim Soon  (BN-MCA)
+","12,351
+","Zuraida Kamarudin (PH-PKR)
+","13,278
+","Nurul Islam Mohamed Yusoff  (GS-PAS)
+","9,598
+","Tan Hua Meng  (PRM)
+","294
+",,,,,54.77%,34.67%,8.71%,0.13%,0.20%,0.01%,1.50%

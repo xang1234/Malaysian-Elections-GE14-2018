@@ -15,12 +15,13 @@ Tab displays:
 - Electoral map with results of the 2018 General Elections
 - Racial composition of voters in each parliamentary ward displayed when main map clicked
 - Population pyramid of state in 2018 is displayed when main map is clicked
-![Results Tab](/images/results.JPG?raw=true "Optional Title")
+
+![Results Tab](/images/results.JPG?raw=true "Results Tab")
 
 ### Bubble plot tab
 *in progress*
 
-### What if tab
-User can project the number of seats in a 2 party parliamentary contest. Votes and turnout can be modified for each race. This simplistic model uses the same values for all seat and assumes that only 2 parties contest a seat.
+### What If tab
+User can project the number of seats in a 2 party parliamentary contest. Votes and turnout can be modified for each race. This simplistic model uses the same values for all seats and assumes that only 2 parties contest a seat. Projections are based on 2018 electoral composition. 
 
-![What If](/images/what-if.JPG?raw=true "Optional Title")
+![What If](/images/what-if.JPG?raw=true "What If Tab")

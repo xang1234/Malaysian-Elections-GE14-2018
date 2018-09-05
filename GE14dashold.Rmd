@@ -1,0 +1,552 @@
+---
+title: "Malaysian General Elections 2018"
+output: 
+  flexdashboard::flex_dashboard:
+    logo : malaysia2.jpg
+    orientation: columns
+    vertical_layout: fill
+    social: menu
+    theme: "cerulean"
+    navbar:
+      - { title: "Github", href: "https://github.com/xang1234/Malaysian-Elections-GE14-2018", align: right }
+runtime: shiny
+---
+
+<style>                     
+.body{
+font-family: "Segoe UI";
+font-size: 6px;
+}
+</style>
+
+
+
+<style>                     
+.chart-title {
+  background-color:#87878B;
+  border-color:black;
+  color:white;
+}
+</style>
+
+
+<style>                     
+.inner{
+ height: 30px
+ min-height: 30px;
+ font-size: 20px;
+}
+</style>
+
+
+<style type="text/css">
+.sidebar {  /* sidebar  */
+   font-size: 12px;
+</style>
+
+<style>
+#inputGroup > div {
+  width: 80px !important;
+  float: left !important;
+  margin-right: 10px !important;
+  vertical-align: top !important;
+}
+</style>
+
+<style>
+#heightGroup > div {
+  height: 60px !important;
+}
+</style>
+
+
+```{r setup, include=FALSE}
+library(geojsonio)
+library(tidyverse)
+library(leaflet)
+library(htmltools)
+library(shiny)
+library(plotly)
+library(flexdashboard)
+
+### Geojson Data
+iso <- geojson_read("malaysia_parliamentary_carto_2018_move.geojson",
+  what = "sp",disambiguateFIDs=TRUE)
+
+pal <- colorFactor(c('grey','blue','green','gold','purple','black','red','cyan','tomato'), domain = c("BEBAS","BN","Gagasan Sejahtera","GB","GPS","PBRS","PH","UPKO","WARISAN"))
+
+### Population Data from Department of Statistics
+pop_malaysia<-read.csv('pop-malaysia-2018-u.csv')
+
+
+pop_malaysia<- pop_malaysia%>% 
+  gather(key=Race,value = Population,Total:Non.Malaysian.Citizens) %>%
+  group_by(Gender,State) %>%
+  mutate(Percent=Population/sum(Population)*100)
+
+
+levels(pop_malaysia$Age)[1]=" 00 - 04"
+levels(pop_malaysia$Age)[10]=" 05 - 09"
+pop_malaysia$Age = factor(pop_malaysia$Age,levels(pop_malaysia$Age)[c(1,10,2:9,11:18)])
+
+### Election results data from wikipedia
+
+wiki<-read.csv("results2018.csv",encoding="cp-1252")
+wiki$No<-substring(wiki$No,2,4)
+
+
+### Join iso and wiki dataframes
+
+iso@data<-merge(iso@data,wiki,by.x="kodpar",by.y="No",sort=FALSE)
+iso@data<-iso@data  %>%
+  mutate(Malay=as.numeric(sub("%","",Malay))/100,
+         Chinese=as.numeric(sub("%","",Chinese))/100,
+         Indian=as.numeric(sub("%","",Indian))/100,
+         Bumiputera.Sarawak=as.numeric(sub("%","",Bumiputera.Sarawak))/100,
+         Bumiputera.Sabah=as.numeric(sub("%","",Bumiputera.Sabah))/100,
+         Orang.Asli=as.numeric(sub("%","",Orang.Asli))/100,
+         Lain.lain=as.numeric(sub("%","",Lain.lain))/100)
+
+
+### Tidy data for Race
+
+race_pal<-colorFactor(c("gold","purple","red","orange","black","blue","brown"),
+                      domain=c("Bumi Sabah","Bumi Sarawak","Chinese","Indian",
+                        "Lain-lain","Malay","Orang Asli"))
+
+race<-iso@data %>%
+  rename(`Bumi Sabah`=`Bumiputera.Sabah`,
+         `Bumi Sarawak`=`Bumiputera.Sarawak`,
+         `Orang Asli`=`Orang.Asli`,
+         `Lain-lain`=`Lain.lain`) %>%
+  gather(key=Race,value = Percent,`Malay`:`Lain-lain`) %>%
+  select(kodpar, parliament, Race, Percent)
+
+### Data for what if
+
+hyp<-iso
+hyp@data <-hyp@data %>% 
+  select(kodpar,state,cartodb_id,parliament, Constituency, ge14_voter,Malay:Lain.lain)
+
+```
+
+
+Results
+==================
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Results by Parliamentary Constituency
+
+
+```{r fig.width=30, fig.height=8}
+
+# Create html for new lines in label
+labs <- lapply(seq(nrow(iso@data)), function(i) {
+  paste0( '<b>Parliamentary Seat: </b>', iso@data[i, "parliament"], '</br>', 
+          '<b>Winner: </b>',iso@data[i, "winning_co"],'</br>', 
+          '<b>Member of Parliament: </b>',iso@data[i, "mp"],'</br>',
+          '<b>State: </b>',iso@data[i, "state"],'</br>',
+          '<b>Voters: </b>',iso@data[i, "ge14_voter"],'</br>') 
+})
+
+output$map<-renderLeaflet({
+  
+m<-leaflet(iso, options = leafletOptions(zoomSnap=0.2,zoomDelta=0.6)) %>% 
+  setView(lng = 106.8775, lat = 3.9409, zoom = 6.6) %>%
+  #addTiles(options=tileOptions(opacity=0.6))%>%
+  
+  addPolygons(stroke = TRUE, weight=0.3, smoothFactor = 0.1, 
+              color="black",fillOpacity = 0.5,
+              fillColor = ~pal(winning_co),
+              layerId=~kodpar,
+              highlightOptions = highlightOptions(color = "white", 
+                                                  weight = 2,
+                                                  bringToFront = TRUE),
+              label=lapply(labs, HTML)) %>%
+  addLegend("bottomright", pal = pal, 
+            values = ~winning_co,
+            title = "Party", opacity = 0.5)
+    
+    
+  m  
+})
+
+leafletOutput('map')
+```
+
+
+Column {data-width=250}
+-----------------------------------------------------------------------
+### Race of Voters
+
+```{r}
+# Get Shape Click 
+click_par <- eventReactive(input$map_shape_click, {
+  x <- input$map_shape_click
+  
+  if (is.null(x$id)){return('SELANGOR')}
+  
+  
+  else{return(x$id)}
+})
+
+# Filter for parliament seat
+
+data_for_race<-reactive({
+  
+  if(is.null(click_par())){selected_par='004'}
+  else(selected_par=click_par())
+  
+  out <-race %>% arrange(desc(Percent)) %>%
+    filter(kodpar==selected_par) 
+  
+  out$Race <- factor(out$Race, levels = unique(out$Race)[order(out$Percent, decreasing = FALSE)])
+
+  return(out)
+  
+  })
+
+output$race<-renderPlotly({
+  
+  if(is.null(click_par())){plot_name='LANGKAWI'}
+  else{plot_name=as.character(data_for_race()$parliament[1])}
+  
+  p<-plot_ly(data_for_race(), 
+             x = ~round(Percent*100,1),
+             y = ~Race, 
+             fillColor = "blue",
+             marker = list(line = list(color = 'black', width = 0.5)),
+             alpha = 0.5,
+             text = ~round(Percent*100,1),
+             textposition = 'auto',
+             type = 'bar', orientation = 'h') %>%
+    layout(bargap = 0, barmode = 'overlay',
+           title = plot_name,
+           yaxis = list(title=''),
+           xaxis = list(title='Percent'),
+           showlegend=FALSE)
+  
+  return(p)
+})
+
+plotlyOutput('race')
+
+```
+
+### Population Pyramid (Department of Statistics)
+
+```{r}
+# Get Shape Click 
+click_shape <- eventReactive(input$map_shape_click, {
+  x <- input$map_shape_click
+  
+  if (is.null(x$id)){return('SELANGOR')}
+  
+  
+  else{
+    out<-filter(iso@data,kodpar==x$id) %>% select(state)
+    return(as.character(out[1,1]))}
+})
+
+
+
+
+
+data_for_pyramid<-reactive({
+  
+  if(is.null(click_shape())){selected_state='SELANGOR'}
+  else(selected_state=click_shape())
+  
+  pop_malaysia %>% filter(State==selected_state, Race=='Total')
+  
+  })
+
+
+
+
+output$pyramid<-renderPlotly({
+  
+  if(is.null(click_shape())){plot_name='SELANGOR'}
+  else{plot_name=click_shape()}
+  
+  p<-plot_ly(data_for_pyramid(), 
+             x = ~ifelse(test=Gender=="Male",
+                                             yes=-Percent,
+                                             no=Percent),
+             y = ~Age, color = ~Gender, alpha= 0.5,
+             type = 'bar', orientation = 'h',
+             marker = list(line = list(color = 'black', width = 0.5)),
+             #hoverinfo = 'y+text+name',
+             colors = c('red', 'blue')) %>%
+    layout(bargap = 0, barmode = 'overlay',
+           title = plot_name,
+           xaxis = list(title='Percent'),
+           legend = list(orientation = 'h'))
+  
+  return(p)
+})
+
+plotlyOutput('pyramid')
+
+
+```
+
+
+
+Bubble Plots
+=================
+
+Inputs {.sidebar}
+-------------------------------------
+
+#### Axes
+```{r}
+
+selectInput("x_filter","Select x-axis:",choices = c("% Malay",
+                                                    "% Chinese",
+                                                    "% Indian",
+                                                    "% Bumi Sarawak",
+                                                    "% Bumi Sabah"),
+            selected ="% Malay", multiple = FALSE)
+                                       
+selectInput("y_filter","Select y-axis:",choices = c("% Malay",
+                                                    "% Chinese",
+                                                    "% Indian",
+                                                    "% Bumi Sarawak",
+                                                    "% Bumi Sabah"),
+            selected ="% Chinese", multiple = FALSE)
+                                           
+
+```
+
+#### Bubble Size
+
+```{r}
+selectInput("size_filter", "Select size:",  choices = c("Votes","Majority","% Majority","Majority Change"),selected ="Majority", multiple = FALSE)
+```
+
+#### Color
+
+```{r}
+selectInput("color_filter", "Select color:",  choices = c("Winning Party","State","Felda Seat","Majority Change"),selected ="Winning Party", multiple = FALSE)
+```
+
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Bubble Plot
+
+
+
+
+
+```{r}
+colors<-c('grey','blue','green','gold','purple','black','red','cyan','tomato')
+
+output$bubble <- renderPlotly({
+  
+  if(input$x_filter=="% Malay"){x=iso@data$Malay}else
+  if(input$x_filter=="% Chinese"){x=iso@data$Chinese}else
+  if(input$x_filter=="% Indian"){x=iso@data$Indian}else
+  if(input$x_filter=="% Bumi Sarawak"){x=iso@data$Bumiputera.Sarawak}else
+  {x=iso@data$Bumiputera.Sabah}
+  
+  if(input$y_filter=="% Malay"){y=iso@data$Malay}else
+  if(input$y_filter=="% Chinese"){y=iso@data$Chinese}else
+  if(input$y_filter=="% Indian"){y=iso@data$Indian}else
+  if(input$y_filter=="% Bumi Sarawak"){y=iso@data$Bumiputera.Sarawak}else
+  {y=iso@data$Bumiputera.Sabah}
+
+  if(input$size_filter=="% Majority"){size=iso@data$Malay}else
+  if(input$size_filter=="Majority"){size=as.numeric(iso@data$Majority)}else
+  if(input$size_filter=="Majority Change"){size=iso@data$Indian}else
+  {size=iso@data$ge14_voter}
+  
+  plot_ly(
+  iso@data, x = ~x, y = ~y,  
+  color = ~`winning_co`, type = "scatter", 
+  mode="markers", colors=~colors, size=~size,
+  marker = list(symbol = 'circle', sizemode = 'diameter',
+                      line = list(width = 2, color = '#FFFFFF'), opacity=0.4)) %>%
+  layout(
+        title="% Economically Active vs % Young",
+
+        xaxis = list(title = '% Young',
+                      gridcolor = 'rgb(255, 255, 255)',
+             
+                      
+                      zerolinewidth = 1,
+                      ticklen = 5,
+                      gridwidth = 2),
+         yaxis = list(title = '% Economically Active',
+                      gridcolor = 'rgb(255, 255, 255)',
+                      
+                      zerolinewidth = 1,
+                      ticklen = 5,
+                      gridwith = 2),
+        paper_bgcolor = 'rgb(243, 243, 243)',
+        plot_bgcolor = 'rgb(243, 243, 243)'
+  )
+  
+})
+
+plotlyOutput('bubble')
+```
+
+
+
+What If
+==================
+
+Column {.sidebar}
+-------------------------------------
+
+#### Malay
+```{r}
+div(div(numericInput("malay_vote", label = "Vote (%)", value=40, min=0,max=100,step=1),
+numericInput("malay_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+#### Chinese
+```{r}
+div(div(numericInput("chinese_vote", label = "Vote (%)", value=90, min=0,max=100,step=1),
+numericInput("chinese_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+#### Indian
+```{r}
+div(div(numericInput("ind_vote", label = "Vote (%)", value=70, min=0,max=100,step=1),
+numericInput("ind_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+#### Bumi Sabah
+```{r}
+div(div(numericInput("sbh_vote", label = "Vote (%)", value=50, min=0,max=100,step=1),
+numericInput("sbh_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+#### Bumi Sarawak
+```{r}
+div(div(numericInput("swk_vote", label = "Vote (%)", value=45, min=0,max=100,step=1),
+numericInput("swk_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+#### Orang Asli
+```{r}
+div(div(numericInput("asli_vote", label = "Vote (%)", value=60, min=0,max=100,step=1),
+numericInput("asli_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+#### Lain-lain
+```{r}
+div(div(numericInput("other_vote", label = "Vote (%)", value=70, min=0,max=100,step=1),
+numericInput("other_turnout", label = "Turnout (%)", value=75, min=0,max=100,step=1), id = 'inputGroup'), id = 'heightGroup')
+```
+
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Number of Parliamentary Seats 
+```{r}
+renderValueBox({
+  valueBox(length(hyp_iso()$vote_pct_na[!is.na(hyp_iso()$vote_pct_na)]),color="#E5E8E8")
+  
+})
+```
+
+
+
+### Results for Dual Party Contest
+
+
+```{r}
+
+# Data for What If
+
+hyp_iso<-reactive({
+  temp<-hyp
+  temp@data<-temp@data %>% 
+    mutate(turnout=ge14_voter*(input$malay_turnout*Malay+
+                            input$chinese_turnout*Chinese+
+                            input$ind_turnout*Indian+
+                            input$sbh_turnout*Bumiputera.Sabah+
+                            input$swk_turnout*Bumiputera.Sarawak+ 
+                            input$asli_turnout*Orang.Asli+
+                            input$other_turnout*Lain.lain)/100,
+      
+      
+            vote_pct=(input$malay_vote*input$malay_turnout*Malay+
+                            input$chinese_vote*input$chinese_turnout*Chinese+
+                            input$ind_vote*input$ind_turnout*Indian+
+                            input$sbh_vote*input$sbh_turnout*Bumiputera.Sabah+
+                            input$swk_vote*input$swk_turnout*Bumiputera.Sarawak+ 
+                            input$asli_vote*input$asli_turnout*Orang.Asli+
+                            input$other_vote*input$other_turnout*Lain.lain)/
+                            (100*turnout/ge14_voter),
+            vote_pct_na=ifelse(test=vote_pct>=50,
+                                             yes=vote_pct,
+                                             no=NA),
+           
+             vote_abs=vote_pct*turnout/100)
+   return(temp)
+
+})
+
+
+
+# Create html for new lines in label
+labs_hyp <-reactive({
+   lapply(seq(nrow(hyp_iso()@data)), function(i) {
+  paste0( '<b>Parliamentary Seat: </b>', hyp_iso()@data[i, "parliament"], '</br>', 
+          '<b>State: </b>',hyp_iso()@data[i, "state"],'</br>',
+          '<b>Turnout: </b>',round(hyp_iso()@data[i, "turnout"],0),'</br>',
+          '<b>Votes: </b>',round(hyp_iso()@data[i, "vote_abs"],0),'</br>',
+          '<b>Vote (%): </b>',round(hyp_iso()@data[i, "vote_pct"],1),'</br>',
+          '<b>Total Voters: </b>',hyp_iso()@data[i, "ge14_voter"],'</br>') 
+})
+
+  
+  
+  
+})
+
+
+
+output$hyp<-renderLeaflet({
+  
+palnum <-   colorNumeric(
+              palette = "Reds",
+               domain = hyp_iso()$vote_pct_na) 
+  
+m<-leaflet(hyp_iso(), options = leafletOptions(zoomSnap=0.2,zoomDelta=0.6)) %>% 
+  setView(lng = 106.8775, lat = 3.9409, zoom = 6.6) %>%
+  #addTiles(options=tileOptions(opacity=0.6))%>%
+  
+  addPolygons(stroke = TRUE, weight=0.3, smoothFactor = 0.1, 
+              color="black",fillOpacity = 0.6,
+              fillColor = ~palnum(vote_pct_na),
+              layerId=~kodpar,
+              highlightOptions = highlightOptions(color = "white", 
+                                                  weight = 2,
+                                                  bringToFront = TRUE),
+              label=lapply(labs_hyp(), HTML)) %>%
+   addLegend( values = ~hyp_iso()$vote_pct_na, 
+              opacity = 0.6, title = "% Vote", 
+              pal= palnum,position = "bottomright") 
+    
+    
+  m  
+})
+
+
+
+
+leafletOutput('hyp')
+```

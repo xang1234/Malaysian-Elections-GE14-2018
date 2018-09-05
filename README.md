@@ -10,7 +10,6 @@
 `geojsonio`, `tidyverse`, `leaflet`, `htmltools` , `shiny` , `plotly`, `flexdashboard`
 
 ## Application
-*App is still a work in progress*
 
 [View App Here](https://davidten.shinyapps.io/GE14dash/)
 
@@ -30,6 +29,6 @@ Tab displays bubble chart or ternary chart. User can select the axis, marker siz
 ![Scatter Tab](/images/ternary.JPG?raw=true "Scatter Tab")
 
 ### What If tab
-User can project the number of seats in a 2 party parliamentary contest. Votes and turnout can be modified for each race. This simplistic model uses the same values for all seats and assumes that only 2 parties contest a seat. Projections are based on 2018 electoral composition. Bumiputera in Sabah and Sarawak are modelled as one block; in reality they are made up of multiple ethnicities. 
+User can project the number of seats in a 2 party parliamentary contest. Votes and turnout can be modified for each race. This simplistic model uses the same values for all seats and assumes that only 2 parties contest a seat. Projections are based on 2018 electoral composition. Bumiputera in Sabah and Sarawak are modelled as one block; in reality they are made up of multiple ethnicities.
 
 ![What If](/images/what-if.JPG?raw=true "What If Tab")

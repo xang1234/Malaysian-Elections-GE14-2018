@@ -14,18 +14,22 @@
 
 [View App Here](https://davidten.shinyapps.io/GE14dash/)
 
-### Results tab
+### Map tab
 Tab displays:
 - Electoral map with results of the 2018 General Elections
 - Racial composition of voters in each parliamentary ward displayed when main map clicked
 - Population pyramid of state in 2018 is displayed when main map is clicked
 
-![Results Tab](/images/results.JPG?raw=true "Results Tab")
+![Map Tab](/images/results.JPG?raw=true "Map Tab")
 
-### Bubble plot tab
-*in progress*
+### Scatter plot tab
+Tab displays bubble chart or ternary chart. User can select the axis, marker size and color.
+
+![Scatter Tab](/images/bubble.JPG?raw=true "Scatter Tab")
+
+![Scatter Tab](/images/ternary.JPG?raw=true "Scatter Tab")
 
 ### What If tab
-User can project the number of seats in a 2 party parliamentary contest. Votes and turnout can be modified for each race. This simplistic model uses the same values for all seats and assumes that only 2 parties contest a seat. Projections are based on 2018 electoral composition.
+User can project the number of seats in a 2 party parliamentary contest. Votes and turnout can be modified for each race. This simplistic model uses the same values for all seats and assumes that only 2 parties contest a seat. Projections are based on 2018 electoral composition. Bumiputera in Sabah and Sarawak are modelled as one block; in reality they are made up of multiple ethnicities. 
 
 ![What If](/images/what-if.JPG?raw=true "What If Tab")
